@@ -1,7 +1,8 @@
 - bookmarks
   - [goo検索](https://search.goo.ne.jp/)
   - 
-  - [天气](http://t.cn/Eoi27rd)      http://pm25.in/changchun
+  - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
+    http://pm25.in/changchun
   - [IT之家  数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
   - [土屋太凤](https://www.veryins.com/taotsuchiya_official)
   - [C罗的Instagram主页(@cristiano) - veryins.com](https://www.veryins.com/cristiano)
@@ -37,7 +38,7 @@
   - [ YouTube ](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber)
   - [Instagram](https://www.instagram.com/)
   - 
-  - Google MAP   (http://www.google.cn/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD/
+  - [東京都 - Google マップ](http://t.cn/AiN3G3lW)
   - 
   - [动漫新闻 - 动漫之家](https://mnews.dmzj.com/)
   - [首页推荐_动漫星空](http://acg.gamersky.com/hot/)
