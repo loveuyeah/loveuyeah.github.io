@@ -55,7 +55,7 @@
   - [東京の [食べログ]](https://tabelog.com/tokyo/)
   - [WEAR](https://wear.jp/member/feed/)
   - [Tastemade快饭](https://www.tastemade.jp/)
-  - [kurashiru クラシル] |https://www.kurashiru.com/)
+  - [kurashiruクラシル](https://www.kurashiru.com/)
   - [旅行のクチコミとホテル](https://4travel.jp/)
   - [東京のストリートファッション最新情報 スタイルアリーナ](http://www.style-arena.jp/ja/)
   - [Vogue](https://www.vogue.com/fashion)
