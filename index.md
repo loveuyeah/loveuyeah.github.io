@@ -2,7 +2,7 @@
   - [goo検索](https://search.goo.ne.jp/)
   - 
   - [天气](http://t.cn/Eoi27rd) http://pm25.in/changchun
-  - [IT之家 - 数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
+  - [IT之家  数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
   - [土屋太凤](https://www.veryins.com/taotsuchiya_official)
   - [C罗的Instagram主页(@cristiano) - veryins.com](https://www.veryins.com/cristiano)
   - [土屋太鳳 - instahu.com](http://www.instahu.com/taotsuchiya_official)
@@ -11,7 +11,7 @@
   - [下载必须 没毛病 - 幕布](https://mubu.com/edit/mzDQcAbZh_)
   - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)
   - [直播吧](https://www.zhibo8.cc/)
-  - [IT之家滚动新闻](https://www.ithome.com/list/
+  - [IT之家滚动新闻](https://www.ithome.com/list/)
   - [Javmvx](https://javmvx.com/)
   - [欢迎光临JavLibrary，你的线上日本成人影片情报站。 - JAVLibrary](http://www.q30x.com/cn/)
   - [色花堂 - Powered by Discuz!](https://www.sehuatang.org/)
@@ -20,9 +20,9 @@
   - 
   - 
   - [瓦斯阅读](https://qnmlgb.tech/)
-  - [文章 | 异视异色](http://www.vice.cn/read)
+  - [文章异视异色](http://www.vice.cn/read)
   - [今日热榜](https://tophub.today/c/news)
-  - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/
+  - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/)
   - 
   - [Sporting News](https://www.sportingnews.com/us/nba)
   - [サッカーキング](https://www.soccer-king.jp/)
@@ -44,18 +44,18 @@
   - [和邪社 ](https://www.hexieshe.cn/)
   - [あみあみ [キャラクター＆ホビー通販]](https://www.amiami.jp/)
   - [活力门动漫资讯](http://news.livedoor.com/article/category/57/)
-  - [JCnews｜https://jcnews.tokyo/)
+  - [JCnews https://jcnews.tokyo/)
   - [pixivision - ](https://www.pixivision.net/ja/)
   - [KAI-YOU.net](https://kai-you.net/category/otaku-culture)
-  - [コスプレに関連するニュース一覧 | ORICON NEWS](https://www.oricon.co.jp/news/tag/id/cosplay/)
+  - [コスプレに関連するニュース一覧  ORICON NEWS](https://www.oricon.co.jp/news/tag/id/cosplay/)
   - [ORICON NEWS｜最新情報を発信する総合トレンドメディア](https://www.oricon.co.jp/)
   - [antenna](https://antenna.jp/)
   - [映画&エンタメニュース](https://www.crank-in.net/)
   - [电视剧の感想](https://www.ch-review.net/)
   - [東京の [食べログ]](https://tabelog.com/tokyo/)
   - [WEAR](https://wear.jp/member/feed/)
-  - [Tastemade | 快饭](https://www.tastemade.jp/)
-  - [kurashiru [クラシル] |https://www.kurashiru.com/)
+  - [Tastemade 快饭](https://www.tastemade.jp/)
+  - [kurashiru クラシル] |https://www.kurashiru.com/)
   - [旅行のクチコミとホテル](https://4travel.jp/)
   - [東京のストリートファッション最新情報 | スタイルアリーナ](http://www.style-arena.jp/ja/)
   - [Vogue](https://www.vogue.com/fashion)
@@ -97,7 +97,7 @@
   - [全国电视直播---bddn.cn](http://bddn.cn/zb.htm)
   - [微直播吧 - 低调看NBA直播_世界杯直播_CCTV5在线视频直播观看](http://www.sjzfgw.cn/)
   - [ 江户川瑞凌 - 哔哩哔哩直播，二次元弹幕直播平台](https://live.bilibili.com/17678)
-  - 斗鱼 绝地求生 https://m.douyu.com/list/room?type=jdqs
+  - 斗鱼 绝地求生  https://m.douyu.com/list/room?type=jdqs
   - [柠檬直播](http://www.ningmengzhibo.com/)
   - 
   - [进击的巨人漫画 ](https://manhua.fzdm.com/39/)
