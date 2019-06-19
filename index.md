@@ -37,18 +37,18 @@
   - [ YouTube ](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber)
   - [Instagram](https://www.instagram.com/)
   - 
-  - [ Google MAP(http://www.google.cn/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD/
+  - Google MAP   (http://www.google.cn/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD/
   - 
   - [动漫新闻 - 动漫之家](https://mnews.dmzj.com/)
   - [首页推荐_动漫星空](http://acg.gamersky.com/hot/)
   - [和邪社 ](https://www.hexieshe.cn/)
   - [あみあみ [キャラクター＆ホビー通販]](https://www.amiami.jp/)
   - [活力门动漫资讯](http://news.livedoor.com/article/category/57/)
-  - [JCnews https://jcnews.tokyo/)
-  - [pixivision - ](https://www.pixivision.net/ja/)
+  - [JCnews ](https://jcnews.tokyo/)
+  - [pixivision  ](https://www.pixivision.net/ja/)
   - [KAI-YOU.net](https://kai-you.net/category/otaku-culture)
   - [コスプレに関連するニュース一覧  ORICON NEWS](https://www.oricon.co.jp/news/tag/id/cosplay/)
-  - [ORICON NEWS｜最新情報を発信する総合トレンドメディア](https://www.oricon.co.jp/)
+  - [ORICON NEWS最新情報を発信する総合トレンドメディア](https://www.oricon.co.jp/)
   - [antenna](https://antenna.jp/)
   - [映画&エンタメニュース](https://www.crank-in.net/)
   - [电视剧の感想](https://www.ch-review.net/)
@@ -57,7 +57,7 @@
   - [Tastemade快饭](https://www.tastemade.jp/)
   - [kurashiru クラシル] |https://www.kurashiru.com/)
   - [旅行のクチコミとホテル](https://4travel.jp/)
-  - [東京のストリートファッション最新情報 | スタイルアリーナ](http://www.style-arena.jp/ja/)
+  - [東京のストリートファッション最新情報 スタイルアリーナ](http://www.style-arena.jp/ja/)
   - [Vogue](https://www.vogue.com/fashion)
   - [VOGUE JAPAN](https://www.vogue.co.jp/)
   - [GQ JAPAN](https://gqjapan.jp/)
@@ -72,11 +72,11 @@
   - [里番 寂月神社](https://www.jiyue.com/category/lifan)
   - [琉璃神社  HACG.DOG(red&simple) red&simple)](http://llss.ws/wp/)
   - [2DJGAME美少女遊戲](https://bbs4.2djgame.net/home/forum.php?mod=forumdisplay&fid=44)
-  - [喵窝☆资源窝www galgame下载|汉化游戏|BDMV动画](https://www.nyavo.com/)
+  - [喵窝☆资源窝下载](https://www.nyavo.com/)
   - [マガジンサミット](https://magazinesummit.jp/)
   - [いい映画と出会えるWebマガジン FILMAGA（フィルマガ）](https://filmaga.filmarks.com/)
   - [NTR BLOG(寝取られブログ)](http://ntrblog.com/)
-  - 兵人在线    (http://bbs.bbicn.com/forum.php?mod=forumdisplay&fid=115)
+  - [兵人在线](http://bbs.bbicn.com/forum.php?mod=forumdisplay&fid=115)
   - 
   - 
   - [Nike. ](https://m.nike.com/ )
