@@ -97,7 +97,7 @@
   - [全国电视直播---bddn.cn](http://bddn.cn/zb.htm)
   - [微直播吧 - 低调看NBA直播_世界杯直播_CCTV5在线视频直播观看](http://www.sjzfgw.cn/)
   - [ 江户川瑞凌 - 哔哩哔哩直播，二次元弹幕直播平台](https://live.bilibili.com/17678)
-  - 斗鱼 绝地求生  https://m.douyu.com/list/room?type=jdqs
+  - [绝地求生直播](https://m.douyu.com/list/room?type=jdqs)
   - [柠檬直播](http://www.ningmengzhibo.com/)
   - 
   - [进击的巨人漫画 ](https://manhua.fzdm.com/39/)
@@ -111,5 +111,5 @@
   - [医学微视](https://www.mvyxws.com/)
   - [京东云盘（JBOX）](http://jbox.jcloud.com/home.html)
   - [个人空间（同步版Beta）](http://ddl.escience.cn/pan/list) ss
-  - [TeraCLOUD File Browser](https://nanao.teracloud.jp/browser/) https://nanao.teracloud.jp/dav/
+  - [TeraCLOUD File Browser](https://nanao.teracloud.jp/browser/) [Index of /dav](https://nanao.teracloud.jp/dav/)
   - 
