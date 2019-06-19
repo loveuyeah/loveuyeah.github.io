@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loveuyeah/loveuyeah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- bookmarks
+  - [goo検索](https://search.goo.ne.jp/)
+  - 
+  - [天气](http://t.cn/Eoi27rd) http://pm25.in/changchun
+  - [IT之家 - 数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
+  - [土屋太凤](https://www.veryins.com/taotsuchiya_official)
+  - [C罗的Instagram主页(@cristiano) - veryins.com](https://www.veryins.com/cristiano)
+  - [土屋太鳳 - instahu.com](http://www.instahu.com/taotsuchiya_official)
+  - [虎扑社区](https://m.hupu.com/bbs)
+  - [ Inoreader](https://www.inoreader.com/web_pages)
+  - [下载必须 没毛病 - 幕布](https://mubu.com/edit/mzDQcAbZh_)
+  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)
+  - [直播吧](https://www.zhibo8.cc/)
+  - [IT之家滚动新闻](https://www.ithome.com/list/
+  - [Javmvx](https://javmvx.com/)
+  - [欢迎光临JavLibrary，你的线上日本成人影片情报站。 - JAVLibrary](http://www.q30x.com/cn/)
+  - [色花堂 - Powered by Discuz!](https://www.sehuatang.org/)
+  - [wikiHow -](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+  - [Instapaper](https://www.instapaper.com/u)
+  - 
+  - 
+  - [瓦斯阅读](https://qnmlgb.tech/)
+  - [文章 | 异视异色](http://www.vice.cn/read)
+  - [今日热榜](https://tophub.today/c/news)
+  - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/
+  - 
+  - [Sporting News](https://www.sportingnews.com/us/nba)
+  - [サッカーキング](https://www.soccer-king.jp/)
+  - 
+  - [Yandex.Disk](https://disk.yandex.com/client/disk)
+  - [我的小米云服务](https://i.mi.com/#/)
+  - 
+  - [atavi.com/](https://atavi.com/)
+  - 
+  - [Twitter](https://twitter.com/home)
+  - [YouTube](https://www.youtube.com/feed/subscriptions/)
+  - [ YouTube ](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber)
+  - [Instagram](https://www.instagram.com/)
+  - 
+  - [ Google MAP(http://www.google.cn/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E6%9D%B1%E4%BA%AC%E9%83%BD/
+  - 
+  - [动漫新闻 - 动漫之家](https://mnews.dmzj.com/)
+  - [首页推荐_动漫星空](http://acg.gamersky.com/hot/)
+  - [和邪社 ](https://www.hexieshe.cn/)
+  - [あみあみ [キャラクター＆ホビー通販]](https://www.amiami.jp/)
+  - [活力门动漫资讯](http://news.livedoor.com/article/category/57/)
+  - [JCnews｜https://jcnews.tokyo/)
+  - [pixivision - ](https://www.pixivision.net/ja/)
+  - [KAI-YOU.net](https://kai-you.net/category/otaku-culture)
+  - [コスプレに関連するニュース一覧 | ORICON NEWS](https://www.oricon.co.jp/news/tag/id/cosplay/)
+  - [ORICON NEWS｜最新情報を発信する総合トレンドメディア](https://www.oricon.co.jp/)
+  - [antenna](https://antenna.jp/)
+  - [映画&エンタメニュース](https://www.crank-in.net/)
+  - [电视剧の感想](https://www.ch-review.net/)
+  - [東京の [食べログ]](https://tabelog.com/tokyo/)
+  - [WEAR](https://wear.jp/member/feed/)
+  - [Tastemade | 快饭](https://www.tastemade.jp/)
+  - [kurashiru [クラシル] |https://www.kurashiru.com/)
+  - [旅行のクチコミとホテル](https://4travel.jp/)
+  - [東京のストリートファッション最新情報 | スタイルアリーナ](http://www.style-arena.jp/ja/)
+  - [Vogue](https://www.vogue.com/fashion)
+  - [VOGUE JAPAN](https://www.vogue.co.jp/)
+  - [GQ JAPAN](https://gqjapan.jp/)
+  - [MEN'S NON-NO WEB](https://www.mensnonno.jp/)
+  - 
+  - 
+  - [同人堂々と](http://doujindoudouto.jp/)
+  - [Hcomic,喵绅士,同人誌,無料同人誌,エロ同人誌,WEBですぐ読む](https://hcomic.in/)
+  - [TOP - エロ漫画・エロ同人](https://ja.hentai-comic.com/)
+  - [CMCZIP.COM | コミック・漫画 無料ダウンロード](https://cmczip.com/)
+  - [里番アニメ](https://hcomic.rocks/am/)
+  - [里番 | 寂月神社](https://www.jiyue.com/category/lifan)
+  - [琉璃神社 ★ HACG.DOG(red&simple) |red&simple)](http://llss.ws/wp/)
+  - [2DJGAME美少女遊戲](https://bbs4.2djgame.net/home/forum.php?mod=forumdisplay&fid=44)
+  - [喵窝☆资源窝www - galgame下载|汉化游戏|BDMV动画](https://www.nyavo.com/)
+  - [マガジンサミット](https://magazinesummit.jp/)
+  - [いい映画と出会えるWebマガジン FILMAGA（フィルマガ）](https://filmaga.filmarks.com/)
+  - [NTR BLOG(寝取られブログ)](http://ntrblog.com/)
+  - 兵人在线 ](http://bbs.bbicn.com/forum.php?mod=forumdisplay&fid=115)
+  - 
+  - 
+  - [Nike. ](https://m.nike.com/ )
+  - [优衣库官方网络旗舰店](https://h.uniqlo.cn/#/)
+  - [阿迪达斯官方商城](https://www.adidas.com.cn/)
+  - [ZARA  | 线上最新款](https://www.zara.cn/cn/)
+  - [H&M CN](https://www2.hm.com/zh_cn/index.html)
+  - [GU ](http://www.gu-global.com/cn/)
+  - [YOHO!BUY 有货](https://www.yohobuy.com/)
+  - [勘履者.球鞋網](https://kenlu.net/)
+  - [什么值得买 | 购物先上值得买_购物门户](https://www.smzdm.com/)
+  - 
+  - 
+  - [公共信号10直播间企鹅直播](http://live.qq.com/10000880)
+  - [【乐虎直播】最懂球迷的体育直播-乐虎直播](http://lehulive.com:81/)
+  - [飞速直播 - 足球直播_NBA直播吧_体育Jrs直播_飞速体育](http://feisuzhibo.com/)
+  - [GO看球-NBA直播丨足球直播丨JRS直播丨低调看直播丨飞速直播](http://gokanqiu.com/)
+  - [全国电视直播---bddn.cn](http://bddn.cn/zb.htm)
+  - [微直播吧 - 低调看NBA直播_世界杯直播_CCTV5在线视频直播观看](http://www.sjzfgw.cn/)
+  - [ 江户川瑞凌 - 哔哩哔哩直播，二次元弹幕直播平台](https://live.bilibili.com/17678)
+  - 斗鱼 绝地求生 https://m.douyu.com/list/room?type=jdqs
+  - [柠檬直播](http://www.ningmengzhibo.com/)
+  - 
+  - [进击的巨人漫画 ](https://manhua.fzdm.com/39/)
+  - [Gal領域-GalCG資源分享站點](https://www.galcg.com/)
+  - [ポスト | Sankaku Channel - アニメ・漫画・ゲーム画像掲示板](https://chan.sankakucomplex.com/)
+  - [エロ漫画 シコっち - 同人誌が無料で読み放題！](https://shikotch.net/)
+  - [哔哩哔哩音乐](https://www.bilibili.com/audio/au885815?type=1)
+  - [首页 - Chiphell - 分享与交流用户体验](https://www.chiphell.com/)
+  - [V2EX › 分享发现](https://www.v2ex.com/go/share)
+  - [Mod apk download](https://www.happymod.com/)
+  - [医学微视](https://www.mvyxws.com/)
+  - [京东云盘（JBOX）](http://jbox.jcloud.com/home.html)
+  - [个人空间（同步版Beta）](http://ddl.escience.cn/pan/list) ss
+  - [TeraCLOUD File Browser](https://nanao.teracloud.jp/browser/) https://nanao.teracloud.jp/dav/
+  - 
