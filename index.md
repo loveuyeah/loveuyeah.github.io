@@ -1,6 +1,6 @@
 - bookmarks
   - [goo検索](https://search.goo.ne.jp/)
-  - 
+  - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
     http://pm25.in/changchun
   - [IT之家  数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
