@@ -1,49 +1,5 @@
 Bookmarks
 
-Bookmarks Menu
-==============
-
-### Firefox Nightly Resources {add_date="1553390223" last_modified="1553390223"}
-
-[Firefox Nightly blog](https://blog.nightly.mozilla.org/)
-
-[Mozilla Bug Tracker](https://bugzilla.mozilla.org/)
-
-[Mozilla Developer Network](https://developer.mozilla.org/)
-
-[Nightly Tester
-Tools](https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/)
-
-[All your crashes](about:crashes)
-
-[Discuss Nightly on
-IRC](https://mibbit.com/?server=irc.mozilla.org&channel=%23nightly)
-
-[Planet Mozilla](https://planet.mozilla.org/)
-
-[最近新增的標籤](place:type=6&sort=14&maxResults=10)
-
-* * * * *
-
-* * * * *
-
-[最近使用的标签](place:type=6&sort=14&maxResults=10)
-
-* * * * *
-
-[最近使用的书签](place:parent=menu________&parent=unfiled_____&parent=toolbar_____&queryType=1&sort=12&maxResults=10&excludeQueries=1)
-
-[最近使用的标签](place:type=6&sort=14&maxResults=10)
-
-* * * * *
-
-[最常访问](place:sort=8&maxResults=10)
-
-### Bookmarks Toolbar {add_date="1506770095" last_modified="1560943515" personal_toolbar_folder="true"}
-
-添加到此文件夹的书签会被显示到书签工具栏中
-
-### V {add_date="1516013316" last_modified="1560503081"}
 
 [天天电影天堂\_电影天堂\_最新电影下载\_电影排行榜](https://www.ttdytt.com/)
 
@@ -1178,7 +1134,6 @@ Reader](https://theoldreader.com/feeds/5d03b63cfea0e7956d00075b)
 
 [](https://miku.tools/)
 
-[](javascript:function%20iprl5(){var%20d=document,z=d.createElement('scr'+'ipt'),b=d.body,l=d.location;try{if(!b)throw(0);d.title='(Saving...)%20'+d.title;z.setAttribute('src',l.protocol+'//www.instapaper.com/j/r9CQzKdGCIlf?a=read-later&u='+encodeURIComponent(l.href)+'&t='+(new%20Date().getTime()));b.appendChild(z);}catch(e){alert('Please%20wait%20until%20the%20page%20has%20loaded.');}}iprl5();void(0))
 
 [](https://www.google.co.jp/)
 
