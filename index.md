@@ -91,7 +91,11 @@
   - [勘履者.球鞋網](https://kenlu.net/)
   - [什么值得买 购物先上值得买_购物门户](https://www.smzdm.com/)
   - 
-  - 
+  - [Collins Online Dictionary](https://www.collinsdictionary.com/)
+  - [三省堂 Web Dictionary](https://www.sanseido.biz/)
+  - [Japanese Dictionary](https://jisho.org/)
+  
+  
   - [公共信号10直播间企鹅直播](http://live.qq.com/10000880)
   - [【乐虎直播】最懂球迷的体育直播-乐虎直播](http://lehulive.com:81/)
   - [飞速直播 - 足球直播_NBA直播吧_体育Jrs直播_飞速体育](http://feisuzhibo.com/)
