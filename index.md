@@ -1,5 +1,5 @@
 - bookmarks
-  - [goo検索](https://search.goo.ne.jp/)
+  - [So-net](https://www.so-net.ne.jp/m/)
   - [书签电脑版](http://t.cn/AiNFX0LX)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
     http://pm25.in/changchun
@@ -77,7 +77,7 @@
   - [喵窝☆资源窝下载](https://www.nyavo.com/)
   - [マガジンサミット](https://magazinesummit.jp/)
   - [いい映画と出会えるWebマガジン FILMAGA（フィルマガ）](https://filmaga.filmarks.com/)
-  - [NTR BLOG(寝取られブログ)](http://ntrblog.com/)
+  - [GirlsNews!](https://girlsnews.tv/)
   - [兵人在线](http://bbs.bbicn.com/forum.php?mod=forumdisplay&fid=115)
   - 
   - 
