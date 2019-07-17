@@ -4,7 +4,7 @@
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
     http://pm25.in/changchun
   -
-  - [IT之家  数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
+  - [IT之家 - 数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
   -
   - [虎扑社区](https://m.hupu.com/bbs)
   - [ Inoreader](https://www.inoreader.com/web_pages) [Inoreader](http://jp.inoreader.com/web_pages)
@@ -68,11 +68,11 @@
   - 
   - [土屋太凤](https://www.veryins.com/taotsuchiya_official)
   - [C罗的Instagram主页(@cristiano) - veryins.com](https://www.veryins.com/cristiano)
-  - [土屋太鳳 - instahu.com](http://www.instahu.com/taotsuchiya_official)
+  - [土屋太鳳](http://www.instahu.com/taotsuchiya_official)
   -
   - [Javmvx](https://javmvx.com/)
   - [欢迎光临JavLibrary，你的线上日本成人影片情报站。 - JAVLibrary](http://www.q30x.com/cn/)
-  - [色花堂 - Powered by Discuz!](https://www.sehuatang.org/)
+  - [色花堂](https://www.sehuatang.org/)
   -
   - [同人堂々と](http://doujindoudouto.jp/)
   - [Hcomic,喵绅士,同人誌,無料同人誌,エロ同人誌,WEBですぐ読む](https://hcomic.in/)
