@@ -19,9 +19,10 @@
   - [文章异视异色](http://www.vice.cn/read)
   - [今日热榜](https://tophub.today/c/news)
   - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/)
+  - [V2EX › 分享发现](https://www.v2ex.com/go/share)
   - 
-  - [Sporting News](https://www.sportingnews.com/us/nba)
-  - [サッカーキング](https://www.soccer-king.jp/)
+  - 
+  - 
   - 
   - [Yandex.Disk](https://disk.yandex.com/client/disk)
   - [我的小米云服务](https://i.mi.com/#/)
