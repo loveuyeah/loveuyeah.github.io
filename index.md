@@ -3,19 +3,20 @@
   - [书签电脑版](http://t.cn/AiNFX0LX)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
   - 
-  - [IT之家 - 数码，科技，生活 - 软媒旗下](https://m.ithome.com/)
+  - [IT之家 - 数码，科技，生活 - 软媒旗下](https://m.ithome.com/)[IT之家滚动新闻](https://www.ithome.com/list/)
   - [虎扑社区](https://m.hupu.com/bbs)
   - [ Inoreader](https://www.inoreader.com/web_pages) [Inoreader](http://jp.inoreader.com/web_pages)
   - [下载必须 没毛病 - 幕布](https://mubu.com/edit/mzDQcAbZh_)
   - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)
   - [直播吧](https://www.zhibo8.cc/)
-  - [IT之家滚动新闻](https://www.ithome.com/list/)
+  - 
   - 
   - [Instapaper](https://www.instapaper.com/u)
   - [wikiHow -](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
   - [瓦斯阅读](https://qnmlgb.tech/)
   - [文章异视异色](http://www.vice.cn/read)
   - [今日热榜](https://tophub.today/c/news)
+  - [今日热榜](http://hot.mrcuriosity.org/)
   - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/)
   - [V2EX › 分享发现](https://www.v2ex.com/go/share)
   - 
@@ -85,7 +86,7 @@
   - [GirlsNews!](https://girlsnews.tv/)
   - [兵人在线](http://bbs.bbicn.com/forum.php?mod=forumdisplay&fid=115)
   - 
-  - 
+  - [京东我的关注](http://t.jd.com/follow/product)
   - [Nike. ](https://m.nike.com/ )
   - [优衣库官方网络旗舰店](https://h.uniqlo.cn/#/)
   - [阿迪达斯官方商城](https://www.adidas.com.cn/)
@@ -118,7 +119,7 @@
   - 
   - 
   - 
-  - [进击的巨人漫画 ](https://manhua.fzdm.com/39/)
+  - [进击的巨人漫画 ](https://manhua.fzdm.com/39/)[进击的巨人漫画漫画粉](https://www.manhuafen.com/comic/39/)
   - [Gal領域-GalCG資源分享站點](https://www.galcg.com/)
   - [ポスト Sankaku Channel - アニメ・漫画・ゲーム画像掲示板](https://chan.sankakucomplex.com/)
   - [エロ漫画 シコっち - 同人誌が無料で読み放題！](https://shikotch.net/)
@@ -127,12 +128,12 @@
   - [Mod apk download](https://www.happymod.com/)
   - [医学微视](https://www.mvyxws.com/)
   - [我的小书屋-最新最全电子书免费下载](http://mebook.cc/)
-  - [Free Download APK Apps & Game - Apk Downloader](https://apktada.com/)
+  - [Free Download APK Apps & Game - Apk Downloader](https://apktada.com/)[Download APK Android Apps and Games | AppsApk](https://www.appsapk.com/)
   - [ツイペディア](https://twipedia.com/)
   - [グラビアアイドル動画を見るならソクミル](https://www.sokmil.com/idol/)
   - [Dabr - Home](https://dabr.co.uk/)
   - [果汁搜索 - 果汁导航旗下全能搜索网站](http://guozhivip.com/nav/so.html)
-  - 
+  - [Topbook | 高效生活视频书](https://topbook.cc/overview)
   - 
   - 
   - 
