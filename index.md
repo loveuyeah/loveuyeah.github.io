@@ -144,5 +144,6 @@
   - [123](https://www.douban.com/note/711331667/)
   - [bookmarks of wordpress](https://loveuyeah.wordpress.com/2019/06/18/bookmarks/)
   - [bookmark of nation](https://www.notion.so/loveuyeah/bookmark-6e19fbbc64404f97909b8ed4998573c6)
+  - [Raindrop.io](https://app.raindrop.io/?#/collection/7837180)
   
   
