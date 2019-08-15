@@ -73,7 +73,7 @@
   - 
   - [Javmvx](https://javmvx.com/)
   - [欢迎光临JavLibrary，你的线上日本成人影片情报站。 - JAVLibrary](http://www.q30x.com/cn/)
-  - [色花堂](https://www.100sht.space/)
+  - [色花堂](https://www.sdfert.xyz/forum-95-1.html)
   - 
   - 
   - 
