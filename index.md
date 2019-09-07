@@ -14,7 +14,7 @@
   - 
   - [Instapaper](https://www.instapaper.com/u)
   - [wikiHow -](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
-  - [瓦斯阅读](https://qnmlgb.tech/)
+  - 
   - [文章异视异色](http://www.vice.cn/read)
   - [今日热榜](https://tophub.today/c/news)
   - [今日热榜](http://hot.mrcuriosity.org/)
@@ -74,7 +74,7 @@
   - [Javmvx](https://javmvx.com/)
   - [欢迎光临JavLibrary，你的线上日本成人影片情报站。 - JAVLibrary](http://www.q30x.com/cn/)
   - [色花堂](https://www.sdfert.xyz/forum-95-1.html)
-  - 
+  - [BP4X](https://www.bp4x.com/)
   - 
   - 
   - [同人堂々と](http://doujindoudouto.jp/)
