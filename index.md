@@ -33,7 +33,7 @@
   - [天翼云盘](https://cloud.189.cn)
   - [京东云盘](http://jbox.jcloud.com/home.html)
   - [腾讯ondrive](https://service-gsocew4m-1300162598.ap-hongkong.apigateway.myqcloud.com/release/onedrive)
-  - 
+  - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
   - 
   - 
   - 
