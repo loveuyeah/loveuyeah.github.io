@@ -127,7 +127,7 @@
   - [13dl 無料 ダウンロード](http://13dl.net/)
   - [芸能アイドルモデル女優水着画像集](http://www.mizugigurabia.com/)
   - [叽哩叽哩游戏网ACG爱好者聚集地](https://www.jiligame.com/)
-  - 
+  - [最新单机游戏下载](https://bbs.3dmgame.com/game0day)
   - 
   - 
   - 
@@ -135,7 +135,7 @@
   - [Nike. ](https://m.nike.com/ )
   - [优衣库官方网络旗舰店](https://h.uniqlo.cn/#/)
   - [阿迪达斯官方商城](https://www.adidas.com.cn/)
-  - [ZARA   线上最新款](https://www.zara.cn/cn/)
+  - [ZARA线上最新款](https://www.zara.cn/cn/)
   - [H&M CN](https://www2.hm.com/zh_cn/index.html)
   - [GU ](http://www.gu-global.com/cn/)
   - [YOHO!BUY 有货](https://www.yohobuy.com/)
@@ -219,7 +219,7 @@
   - [bookmark of nation](https://www.notion.so/loveuyeah/bookmark-6e19fbbc64404f97909b8ed4998573c6)
   - [Raindrop.io](https://app.raindrop.io/?#/collection/7837180)
   - [360浏览器极速版](http://h5.mse.360.cn/lite/index.html)
-  - [loveuyeah得bloggi](https://loveuyeah.bloggi.co/bookmarks)
+  - [loveuyeah bloggi](https://loveuyeah.bloggi.co/bookmarks)
   - 
   - 
   - 
