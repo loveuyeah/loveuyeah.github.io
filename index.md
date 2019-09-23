@@ -51,9 +51,9 @@
   - 
   - 
   - [東京都Google マップ](http://t.cn/AiN3G3lW)
-  - 
-  - 
-  - 
+  - [东京地图](https://map.51240.com/dongjing_7j__map/)
+  - [地球在线](https://www.earthol.com/view-7259.html)
+  - [街景地图](https://www.earthol.org/city-3.html)
   - 
   - 
   - 
