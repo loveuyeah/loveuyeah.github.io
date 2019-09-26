@@ -22,8 +22,8 @@
   - [V2EX › 分享发现](https://www.v2ex.com/go/share)
   - 
   - 
-  - 
-  - 
+  - [NutstoreCloud Disk|Network Disk|Synchronous|Backup|Unlimited Space|Free Network Hard Disk|Dropbox|Box|Onedrive|Google Drive](https://www.jianguoyun.com/d/home#/)
+  - [Amazon Drive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
   - [Yandex.Disk](https://disk.yandex.com/client/disk)
   - [我的小米云服务](https://i.mi.com/#/)
   - [个人空间（同步版Beta）](http://ddl.escience.cn/pan/list) ss
