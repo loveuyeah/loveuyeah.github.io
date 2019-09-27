@@ -18,11 +18,11 @@
   - [文章异视异色](http://www.vice.cn/read)
   - [今日热榜](https://tophub.today/c/news)
   - [今日热榜](http://hot.mrcuriosity.org/)
-  - [AnyKnew - 效率资讯 - 高效读新闻, 5分钟遍历全网热点](https://www.anyknew.com/#/)
+  - [AnyKnew](https://www.anyknew.com/#/)
   - [V2EX › 分享发现](https://www.v2ex.com/go/share)
   - 
   - 
-  - [NutstoreCloud Disk|Network Disk|Synchronous|Backup|Unlimited Space|Free Network Hard Disk|Dropbox|Box|Onedrive|Google Drive](https://www.jianguoyun.com/d/home#/)
+  - [Nutstore Cloud Disk](https://www.jianguoyun.com/d/home#/)
   - [Amazon Drive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
   - [Yandex.Disk](https://disk.yandex.com/client/disk)
   - [我的小米云服务](https://i.mi.com/#/)
@@ -34,7 +34,7 @@
   - [京东云盘](http://jbox.jcloud.com/home.html)
   - [腾讯ondrive](https://service-gsocew4m-1300162598.ap-hongkong.apigateway.myqcloud.com/release/onedrive)
   - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
-  - [文叔叔](https://www.wenshushu.cn/drive/)
+  - 
   - 
   - 
   - [Twitter](https://twitter.com/home)
