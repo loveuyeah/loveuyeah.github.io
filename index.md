@@ -130,12 +130,12 @@
   - [最新单机游戏下载](https://bbs.3dmgame.com/game0day)
   - 
   -
-  -[最近更新动漫AGE动漫](https://www.agefans.tv/update)
-  -[爱看番小而美的动漫追番网站](http://www.ikanfan.com/)
-  -[ZzzFun动漫视频网](http://www.zzzfun.com/)
-  -[D站番剧更新列表](http://dilidili.name/zxgx/)
-  -[五弹幕](https://www.5dm.tv/)
-  -[手机看片](http://www.wodedy.net/)
+  - [最近更新动漫AGE动漫](https://www.agefans.tv/update)
+  - [爱看番小而美的动漫追番网站](http://www.ikanfan.com/)
+  - [ZzzFun动漫视频网](http://www.zzzfun.com/)
+  - [D站番剧更新列表](http://dilidili.name/zxgx/)
+  - [五弹幕](https://www.5dm.tv/)
+  - [手机看片](http://www.wodedy.net/)
   -
   -
   -
