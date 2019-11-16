@@ -1,5 +1,5 @@
 - bookmarks
-  - [So-net](https://www.so-net.ne.jp/m/)
+  - [So-net](https://www.so-net.ne.jp/m/)[Excite](https://www.excite.co.jp/)
   - [书签电脑版](http://t.cn/AiNFX0LX)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
   - 
@@ -20,6 +20,9 @@
   - [今日热榜](http://hot.mrcuriosity.org/)
   - [AnyKnew](https://www.anyknew.com/#/)
   - [V2EX › 分享发现](https://www.v2ex.com/go/share)
+  - [新闻聚合MikuTools](https://tools.miku.ac/news/)
+  - [鱼塘热榜官网](https://tophub.fun/main/home/hot)
+  - 
   - 
   - 
   - [Nutstore Cloud Disk](https://www.jianguoyun.com/d/home#/)
@@ -50,11 +53,11 @@
   - 
   - 
   - 
-  - [東京都Google マップ](http://t.cn/AiN3G3lW)
+  - [Google マップ](http://www.google.cn//maps)
   - [东京地图](https://map.51240.com/dongjing_7j__map/)
   - [地球在线](https://www.earthol.com/view-7259.html)
   - [街景地图](https://www.earthol.org/city-3.html)
-  - 
+  - [谷歌卫星高清地图Google地图在线](http://www.gditu.net/)
   - 
   - 
   - 
@@ -180,7 +183,7 @@
   - [ 江户川瑞凌 - 哔哩哔哩直播，二次元弹幕直播平台](https://live.bilibili.com/17678)
   - [绝地求生直播](https://m.douyu.com/list/room?type=jdqs)
   - [柠檬直播](http://www.ningmengzhibo.com/)
-  - 
+  - [溜溜体育直播](https://lltyzb.com/client/home)
   - 
   - ==================================
   - ==================================
@@ -207,8 +210,8 @@
   - [五弹幕](https://www.5dm.tv/)
   - [あげてけ！](https://ageteke.jp/)
   - [磁力搜nyaa](https://biedian.me/search?source=Sukebei%20Nyaa)
-  - 
-  - 
+  - [Chrome插件插件推荐与下载服务](http://chromecj.com/)
+  - [小霸王其乐无穷](https://www.yikm.net/)
   - 
   - 
   - 
@@ -228,7 +231,7 @@
   - [Raindrop.io](https://app.raindrop.io/?#/collection/7837180)
   - [360浏览器极速版](http://h5.mse.360.cn/lite/index.html)
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/bookmarks)
-  - 
+  - [bookmarksnote](https://note.mu/loveuyeah/n/nbd845647cc8b)
   - 
   - 
   - 
