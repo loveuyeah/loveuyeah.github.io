@@ -184,7 +184,7 @@
   - [绝地求生直播](https://m.douyu.com/list/room?type=jdqs)
   - [柠檬直播](http://www.ningmengzhibo.com/)
   - [溜溜体育直播](https://lltyzb.com/client/home)
-  - 
+  - [So米直播](https://smzb8.net:168/)
   - ==================================
   - ==================================
   - 
