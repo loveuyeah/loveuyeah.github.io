@@ -15,7 +15,7 @@
   - [Instapaper](https://www.instapaper.com/u)
   - [wikiHow -](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
   - 
-  - [文章异视异色](http://www.vice.cn/read)
+  - 
   - [今日热榜](https://tophub.today/c/news)
   - [今日热榜](http://hot.mrcuriosity.org/)
   - [AnyKnew](https://www.anyknew.com/#/)
@@ -38,7 +38,7 @@
   - [腾讯ondrive](https://service-gsocew4m-1300162598.ap-hongkong.apigateway.myqcloud.com/release/onedrive)
   - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
   - [曲奇云](https://quqi.com/2739591/0)
-  - 
+  - [酷族网软](https://www.kzwr.com/)
   - 
   - [Twitter](https://twitter.com/home)
   - [YouTube](https://www.youtube.com/feed/subscriptions/)
@@ -213,7 +213,7 @@
   - [Chrome插件插件推荐与下载服务](http://chromecj.com/)
   - [小霸王其乐无穷](https://www.yikm.net/)
   - 
-  - 
+  - [聚BT](https://www.jubt.net/cn/index.html)
   - 
   - 
   - 
