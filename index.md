@@ -39,6 +39,9 @@
   - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
   - [曲奇云](https://quqi.com/2739591/0)
   - [酷族网软](https://www.kzwr.com/)
+  - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306)
+  - 
+  - 
   - 
   - [Twitter](https://twitter.com/home)
   - [YouTube](https://www.youtube.com/feed/subscriptions/)
@@ -212,7 +215,7 @@
   - [磁力搜nyaa](https://biedian.me/search?source=Sukebei%20Nyaa)
   - [Chrome插件插件推荐与下载服务](http://chromecj.com/)
   - [小霸王其乐无穷](https://www.yikm.net/)
-  - 
+  - [雀魂麻雀を無料で気軽に](https://game.mahjongsoul.com/)
   - [聚BT](https://www.jubt.net/cn/index.html)
   - 
   - 
