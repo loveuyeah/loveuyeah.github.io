@@ -87,8 +87,8 @@
   - 
   - 
   - [GQ JAPAN](https://gqjapan.jp/)
-  - 
-  - 
+  - [MANTANWEB](https://mantan-web.jp/)
+  - [はてな関心ワード](https://b.hatena.ne.jp/loveuyeah/interest)
   - 
   - 
   - 
