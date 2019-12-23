@@ -73,7 +73,7 @@
   - [JCnews ](https://jcnews.tokyo/)
   - [pixivision  ](https://www.pixivision.net/ja/)
   - [KAI-YOU.net](https://kai-you.net/category/otaku-culture)
-  - 
+  - [アニメdocomo](https://ent.smt.docomo.ne.jp/tags/anime)
   - 
   - 
   - [映画&エンタメニュース](https://www.crank-in.net/)
@@ -235,7 +235,7 @@
   - [360浏览器极速版](http://h5.mse.360.cn/lite/index.html)
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/bookmarks)
   - [bookmarksnote](https://note.mu/loveuyeah/n/nbd845647cc8b)
-  - 
+  - [multilink书签备份](https://multi.link/loveuyeah)
   - 
   - 
   - 
