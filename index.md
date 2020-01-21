@@ -1,5 +1,5 @@
 - bookmarks
-  - [So-net](https://www.so-net.ne.jp/m/)[Excite](https://www.excite.co.jp/)
+  - [So-net](https://www.so-net.ne.jp/m/) [Excite](https://www.excite.co.jp/) [au Webポータル|最新の国内外ニュースをリアルタイムに配信](https://portal.auone.jp/)
   - [书签电脑版](http://t.cn/AiNFX0LX)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
   - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)
