@@ -8,7 +8,7 @@
   - [虎扑社区](https://m.hupu.com/bbs)
   - [Inoreader](https://www.inoreader.com/web_pages) [Inoreader](http://jp.inoreader.com/web_pages)
   - [Yahoo!ニュース](https://news.yahoo.co.jp/categories/entertainment)
-  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)
+  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)
   - [直播吧](https://www.zhibo8.cc/)
   - 
   - 
@@ -19,7 +19,7 @@
   - [今日热榜](https://tophub.today/c/news)
   - [今日热榜](http://hot.mrcuriosity.org/)
   - [AnyKnew](https://www.anyknew.com/#/)
-  - [V2EX › 分享发现](https://www.v2ex.com/go/share)
+  - [V2EX分享发现](https://www.v2ex.com/go/share)
   - [新闻聚合MikuTools](https://tools.miku.ac/news/)
   - [鱼塘热榜官网](https://tophub.fun/main/home/hot)
   - 
