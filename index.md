@@ -1,6 +1,6 @@
 - bookmarks
   - [So-net](https://www.so-net.ne.jp/m/) [Excite](https://www.excite.co.jp/) [auWeb](https://portal.auone.jp/)
-  - [书签电脑版](http://t.cn/AiNFX0LX)
+  - [书签电脑版](http://t.cn/AiNFX0LX) [allmarks](https://note.com/loveuyeah/n/n77ec120c0906)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
   - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)
   - 
