@@ -1,5 +1,5 @@
 - bookmarks
-  - [So-net](https://www.so-net.ne.jp/m/) [Excite](https://www.excite.co.jp/) [auWeb](https://portal.auone.jp/)
+  - [So-net](https://www.so-net.ne.jp/m/) [Excite](https://www.excite.co.jp/) 
   - [书签电脑版](http://t.cn/AiNFX0LX) [allmarks](https://note.com/loveuyeah/n/n77ec120c0906)
   - [天气](http://t.cn/Eoi27rd) [天气](http://www.weather.com.cn/weather/101060101.shtml)    
   - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)
@@ -8,6 +8,7 @@
   - [虎扑社区](https://m.hupu.com/bbs)
   - [Inoreader](https://www.inoreader.com/web_pages) [Inoreader](http://jp.inoreader.com/web_pages)
   - [Yahoo!ニュース](https://news.yahoo.co.jp/categories/entertainment)
+  - [auWebニュース](https://portal.auone.jp/)
   - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)
   - [直播吧](https://www.zhibo8.cc/)
   - [レイ的豆瓣](https://m.douban.com/people/loveuyeah//)
@@ -15,7 +16,7 @@
   - [笔记Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R)
   - [WorkFlowy](https://workflowy.com/#/7785ceef6593)
   - [京东商品搜索](https://search.jd.com/)
-  - 
+  - [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)
   - 
   - 
   - 
