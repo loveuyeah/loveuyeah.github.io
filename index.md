@@ -10,6 +10,16 @@
   - [Yahoo!ニュース](https://news.yahoo.co.jp/categories/entertainment)
   - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)
   - [直播吧](https://www.zhibo8.cc/)
+  - [レイ的豆瓣](https://m.douban.com/people/loveuyeah//)
+  - [Yahoo Mail](https://mail.yahoo.com/d/folders/27)
+  - [笔记Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R)
+  - [WorkFlowy](https://workflowy.com/#/7785ceef6593)
+  - [京东商品搜索](https://search.jd.com/)
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - [Instapaper](https://www.instapaper.com/u)
@@ -22,6 +32,11 @@
   - [V2EX分享发现](https://www.v2ex.com/go/share)
   - [新闻聚合MikuTools](https://tools.miku.ac/news/)
   - [鱼塘热榜官网](https://tophub.fun/main/home/hot)
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
