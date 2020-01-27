@@ -16,7 +16,7 @@
   - [笔记Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R)
   - [WorkFlowy](https://workflowy.com/#/7785ceef6593)
   - [京东商品搜索](https://search.jd.com/)
-  - [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)
+  - [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)[实时更新全国疫情地图](https://news.sina.cn/zt_d/yiqing0121/?wm=3049_0016&from=qudao)
   - 
   - 
   - 
