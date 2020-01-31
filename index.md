@@ -35,7 +35,7 @@
   - [鱼塘热榜官网](https://tophub.fun/main/home/hot)
   - [抽屉新热榜](https://m.chouti.com/all/hot)
   - [界面新闻](https://www.jiemian.com/lists/21.html) [正午界面新闻](https://www.jiemian.com/lists/53.html)
-  - [一兜糖装修效果图](http://www.yidoutang.com/)
+  - 
   - 
   - 
   - 
@@ -55,7 +55,7 @@
   - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
   - [曲奇云](https://quqi.com/2739591/0)
   - [酷族网软](https://www.kzwr.com/)
-  - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306)
+  - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接云盘](http://pan-yz.chaoxing.com/)
   - 
   - 
   - 
