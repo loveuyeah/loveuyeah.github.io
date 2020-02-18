@@ -252,7 +252,7 @@
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/bookmarks)
   - [bookmarksnote](https://note.mu/loveuyeah/n/nbd845647cc8b)
   - [multilink书签备份](https://multi.link/loveuyeah)
-  - 
+  - [ming的Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
   - 
   - 
   - 
