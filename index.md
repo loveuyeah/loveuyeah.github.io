@@ -56,7 +56,7 @@
   - [曲奇云](https://quqi.com/2739591/0)
   - [酷族网软](https://www.kzwr.com/)
   - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接云盘](http://pan-yz.chaoxing.com/)
-  - 
+  - [忍者网盘管理](http://sandbox.shinobi.jp/manage/#)[Note](http://ming.sdbx.jp/note/Note.txt)[pan](http://ming.sdbx.jp/pan/)[pics](http://ming.sdbx.jp/pics/)[music](http://ming.sdbx.jp/music/)
   - 
   - 
   - [Twitter](https://twitter.com/home)[Twitterlist](https://twitter.com/i/lists/1221611432099270656)
@@ -252,8 +252,8 @@
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/bookmarks)
   - [bookmarksnote](https://note.mu/loveuyeah/n/nbd845647cc8b)
   - [multilink书签备份](https://multi.link/loveuyeah)
-  - [ming的Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
-  - 
+  - [ming忍者Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
+  - [忍者index](http://ming.sdbx.jp/)
   - 
   - 
   - 
