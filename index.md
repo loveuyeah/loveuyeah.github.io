@@ -16,7 +16,7 @@
   - [笔记Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R)
   - [WorkFlowy](https://workflowy.com/#/7785ceef6593)
   - [京东商品搜索](https://search.jd.com/)
-  - [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)[实时更新全国疫情地图](https://news.sina.cn/zt_d/yiqing0121/?wm=3049_0016&from=qudao)
+  - 
   - 
   - 
   - 
@@ -27,13 +27,13 @@
   - [wikiHow -](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
   - 
   - 
-  - [今日热榜](https://tophub.today/c/news)
+  - [今日热榜](https://tophub.today/c/news) [鱼塘热榜首页](https://mo.fish/main/home/hot)
   - [今日热榜](http://hot.mrcuriosity.org/)
   - [AnyKnew](https://www.anyknew.com/#/)
   - [V2EX分享发现](https://www.v2ex.com/go/share)
   - [新闻聚合MikuTools](https://tools.miku.ac/news/)
   - [鱼塘热榜官网](https://tophub.fun/main/home/hot)
-  - [抽屉新热榜](https://m.chouti.com/all/hot)
+  - [抽屉新热榜](https://m.chouti.com/all/hot) [青年图摘](https://qingniantuzhai.com/)
   - [界面新闻](https://www.jiemian.com/lists/21.html) [正午界面新闻](https://www.jiemian.com/lists/53.html)
   - 
   - 
@@ -48,8 +48,8 @@
   - [个人空间（同步版Beta）](http://ddl.escience.cn/pan/list) ss
   - [奶牛快传文件传输服务](https://cowtransfer.com/)
   - [TeraCLOUD File Browser](https://nanao.teracloud.jp/browser/) [Index of /dav](https://nanao.teracloud.jp/dav/)
-  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3)
-  - [天翼云盘](https://cloud.189.cn)
+  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [和彩云网盘](https://caiyun.feixin.10086.cn/portal/index.jsp#myfile)
+  - [天翼云盘](https://cloud.189.cn) [天翼云家庭](https://h5.cloud.189.cn/main.html#/family) 
   - [京东云盘](http://jbox.jcloud.com/home.html)
   - [腾讯ondrive](https://service-gsocew4m-1300162598.ap-hongkong.apigateway.myqcloud.com/release/onedrive)
   - [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)
@@ -57,6 +57,18 @@
   - [酷族网软](https://www.kzwr.com/)
   - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接云盘](http://pan-yz.chaoxing.com/)
   - [忍者网盘管理](http://sandbox.shinobi.jp/manage/#) [Note](http://ming.sdbx.jp/note/Note.txt) [pan](http://ming.sdbx.jp/pan/)   [pics](http://ming.sdbx.jp/pics/) [music](http://ming.sdbx.jp/music/)
+  - [蓝奏常用软件](https://www.lanzous.com/b00nfy6cb)
+  -
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - [Clantu](https://clantu.com/albums) [尼康相册](https://nis.nikonimagespace.com/html/myphoto/)
+  - 
+  - 
+  - 
   - 
   - 
   - [Twitter](https://twitter.com/home)[Twitterlist](https://twitter.com/i/lists/1221611432099270656)
@@ -183,8 +195,8 @@
   - [Collins Online Dictionary](https://www.collinsdictionary.com/)
   - [三省堂 Web Dictionary](https://www.sanseido.biz/)
   - [Japanese Dictionary](https://jisho.org/)
-  - 
-  - 
+  - [DeepL翻訳](https://www.deepl.com/translator)
+  - [Linguee](https://www.linguee.com/)
   - 
   - 
   - 
@@ -254,8 +266,8 @@
   - [multilink书签备份](https://multi.link/loveuyeah)
   - [ming忍者Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
   - [忍者index](http://ming.sdbx.jp/)
-  - 
-  - 
+  - [gitlab](https://loveuyeah.gitlab.io/)
+  - [lofter](https://loveuyeah.lofter.com/)
   - 
   - 
   - 
