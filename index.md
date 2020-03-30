@@ -57,10 +57,7 @@
   - [酷族网软](https://www.kzwr.com/)
   - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接云盘](http://pan-yz.chaoxing.com/)
   - [忍者网盘管理](http://sandbox.shinobi.jp/manage/#) [Note](http://ming.sdbx.jp/note/Note.txt) [pan](http://ming.sdbx.jp/pan/)   [pics](http://ming.sdbx.jp/pics/) [music](http://ming.sdbx.jp/music/)
-  - [蓝奏常用软件文件夹](https://www.lanzous.com/b00nfy6cb)
-  -
-  - 
-  - 
+  - [蓝奏常用软件文件夹](https://www.lanzous.com/b00nfy6cb) 
   - 
   - 
   - 
