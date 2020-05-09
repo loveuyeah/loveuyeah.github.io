@@ -23,7 +23,7 @@
   - 
   - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
   - [今日热榜](https://tophub.today/c/news) [鱼塘热榜首页](https://mo.fish/main/home/hot)  [今日热榜](http://hot.mrcuriosity.org/)  [AnyKnew](https://www.anyknew.com/#/)  [新闻聚合MikuTools](https://tools.miku.ac/news/)    [鱼塘热榜官网](https://tophub.fun/main/home/hot)   [抽屉新热榜](https://m.chouti.com/all/hot) 
-  - [V2EX分享发现](https://www.v2ex.com/go/share)   [主页 | JIKE](https://jike.info/)
+  - [V2EX分享发现](https://www.v2ex.com/go/share)   [主页JIKE](https://jike.info/)
   - [青年图摘](https://qingniantuzhai.com/)
   - 
   - 
@@ -80,9 +80,9 @@
   - [東京食べログ](https://tabelog.com/tokyo/)
   - [WEAR](https://wear.jp/member/feed/)
   - [Tastemade快饭](https://www.tastemade.jp/)
-  - [kurashiru] |https://www.kurashiru.com/)
+  - [kurashiru](https://www.kurashiru.com/)
   - [旅行のクチコミとホテル](https://4travel.jp/)
-  - [東京のストリートファッション最新情報 | スタイルアリーナ](http://www.style-arena.jp/ja/)
+  - [東京のストリートファッション](http://www.style-arena.jp/ja/)
   - [Vogue](https://www.vogue.com/fashion)
   - [VOGUE JAPAN](https://www.vogue.co.jp/)
   - [MANTANWEB](https://mantan-web.jp/)
@@ -118,7 +118,7 @@
   - [Nike](https://m.nike.com/ )
   - [优衣库官方网络旗舰店](https://h.uniqlo.cn/#/)
   - [阿迪达斯官方商城](https://www.adidas.com.cn/)
-  - [ZARA  | 线上最新款](https://www.zara.cn/cn/)
+  - [ZARA线上最新款](https://www.zara.cn/cn/)
   - [H&M CN](https://www2.hm.com/zh_cn/index.html)
   - [GU ](http://www.gu-global.com/cn/)
   - [YOHO!BUY 有货](https://www.yohobuy.com/)
@@ -187,5 +187,6 @@
   - [ming忍者Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
   - [忍者index](http://ming.sdbx.jp/)
   - [gitlab](https://loveuyeah.gitlab.io/)
+  - 
   - 
   - 
