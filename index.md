@@ -1,12 +1,9 @@
 - bookmarks
   - 
-  - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906)  [ninjaBookmarks](http://ming.sdbx.jp/allbookmarks/)
-  - 
-  - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) 
   - [搜狗](https://wap.sogou.com/)   [bing](https://cn.bing.com/)   [神马](https://m.sm.cn/)   [多吉搜索](https://www.dogedoge.com/)
-  - [高德地图](https://m.amap.com/) [百度地图](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/)
-  - 
   - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)   [m3u8在线播放器](https://m3u8-player.com/)
+  - 
+  - [Note](http://ming.sdbx.jp/note/Note.txt)  [xNote编辑添加](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)
   - 
   - [IT之家](https://m.ithome.com/)   [IT之家滚动新闻](https://www.ithome.com/list/)
   - [虎扑社区](https://m.hupu.com/bbs)
@@ -32,7 +29,6 @@
   - [青年图摘](https://qingniantuzhai.com/)
   - 
   - 
-  - [Note](http://ming.sdbx.jp/note/Note.txt)  [xNote编辑添加](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)
   - 
   - [奶牛快传文件传输服务](https://cowtransfer.com/)
   - [Amazon Drive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
@@ -55,11 +51,9 @@
   - 
   - 
   - 
-  - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656)
-  - [YouTube](https://www.youtube.com/feed/subscriptions/)
-  - [ YouTube ](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber)
-  - [Instagram](https://www.instagram.com/)
+  - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) 
   - 
+  - [高德地图](https://m.amap.com/) [百度地图](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/)
   - 
   - [Googleマップ](http://www.google.cn//maps)
   - [东京地图](https://map.51240.com/dongjing_7j__map/)
@@ -108,6 +102,11 @@
   - [D站番剧更新列表](http://dilidili.name/zxgx/)
   - [五弹幕](https://www.5dm.tv/)
   - [手机看片](http://www.wodedy.net/)
+  - 
+  - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656)
+  - [YouTube](https://www.youtube.com/feed/subscriptions/)
+  - [ YouTube ](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber)
+  - [Instagram](https://www.instagram.com/)
   - 
   - [土屋太凤](https://www.veryins.com/taotsuchiya_official)  [户田惠梨香](https://www.veryins.com/toda_erika.official)   [戸田恵梨香ニュース](https://www.excite.co.jp/news/entertainment/tag/%E6%88%B8%E7%94%B0%E6%81%B5%E6%A2%A8%E9%A6%99/)
   - [C罗的Instagram主页](https://www.veryins.com/cristiano)
@@ -194,5 +193,5 @@
   - [ming忍者Note](https://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note)
   - [忍者index](http://ming.sdbx.jp/)
   - [gitlab](https://loveuyeah.gitlab.io/)
-  - 
+  - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906)  [ninjaBookmarks](http://ming.sdbx.jp/allbookmarks/)
   - 
