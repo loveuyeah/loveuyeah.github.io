@@ -1,9 +1,8 @@
-
-  - [bing](https://cn.bing.com/)   [搜狗](https://wap.sogou.com/)  [多吉搜索](https://www.dogedoge.com/)  [萌搜](https://mengso.com/) [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast)
+ - [bing](https://cn.bing.com/)   [搜狗](https://wap.sogou.com/)   [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast)
   - 
   -  [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)    [xNote编辑](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm)
   - 
-  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)   [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)
+  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)   [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/) 
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://news.livedoor.com/)  [aunews](https://portal.auone.jp/)  [So-net](https://www.so-net.ne.jp/m/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
   - [IT之家](https://m.ithome.com/)   [IT之家滚动](https://www.ithome.com/list/)
   - [直播吧](https://www.zhibo8.cc/) [虎扑社区](https://m.hupu.com/bbs) [NBA虎扑](https://nba.hupu.com/)
@@ -29,11 +28,11 @@
   - [onedrive](https://login.microsoftonline.com/)
   - [奶牛快传](https://cowtransfer.com/)
   - [Nutstore Cloud Disk](https://www.jianguoyun.com/d/home#/)
-  - [Teambition](https://www.teambition.com/pan/org/5f479a86100f4440682d8f4c/space/5fb35ca1542b1cf18dbe4ef8bc40b14f3891075d/folder/5fb35ca1542b1cf18dbe4ef8bc40b14f3891075d)
+  - [Teambition](https://www.teambition.com/app/pan/org/5f479a86100f4440682d8f4c/space/b3164a9d9a206554/folder/576656db9b8f9f87e6fd2eda23b75a74)
   - [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
-  - [小米云服务](https://i.mi.com/#/)
-  - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [Index of /dav](https://nanao.teracloud.jp/dav/)
-  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云bbc](https://v2.fangcloud.com/apps/files/desktop/files/all)  [酷族网软](https://www.kzwr.com/) [曲奇云](https://quqi.com/2739591/0)
+  - [小米云](https://i.mi.com/#/)
+  - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/)
+  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)  [酷族网软](https://www.kzwr.com/) [曲奇云](https://quqi.com/2739591/0)
   - [小鹿快传](https://deershare.com/send)
   - 
   - [Clantu](https://clantu.com/albums)    [尼康](https://nis.nikonimagespace.com/html/myphoto/)    [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634) 
@@ -73,7 +72,7 @@
   - [手机看片](http://www.wodedy.net/)
   - 
   - [哔哩哔哩音乐](https://www.bilibili.com/audio/am28440788)
-  - [网易云音乐](https://music.163.com/#/playlist?id=3778087)
+  - [网易云音乐](https://music.163.com/#/playlist?id=3778087) [YesPlayMusic](https://music.qier222.com/#/)
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah)
   - [Nike](https://m.nike.com/ ) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock)
@@ -85,6 +84,8 @@
   - [YOHO!](https://www.yohobuy.com/)
   - [勘履者](https://kenlu.net/)
   - [什么值得买](https://www.smzdm.com/)
+  - 
+  - [灌篮手游](https://tieba.baidu.com/f?ie=utf-8&kw=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E6%89%8B%E6%B8%B8) [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml) 
   - 
   - ==================================
   - ==================================
@@ -112,9 +113,9 @@
   - [dwango芸能ニュース](https://news.dwango.jp/)
   - [FILMAGA](https://filmaga.filmarks.com/)
   - [cinematoday](https://www.cinematoday.jp/)
-  - [マガジンサミット](https://magazinesummit.jp/)
+  - [表纸](https://magazinesummit.jp/)
   - [女優水着](http://www.mizugigurabia.com/)
-  - [バズプラスニュース](https://buzz-plus.com/)
+  - [buzzplus](https://buzz-plus.com/)
   - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo)
   - [mynavi娱乐](https://news.mynavi.jp/top/entertainment/entertainment/)
   - [アニメ総研](https://akiba-souken.com/anime/ranking/)
@@ -125,7 +126,7 @@
   - [进击的巨人](https://manhua.fzdm.com/39/)
   - [エロ漫画](https://shikotch.net/)
   - [医学微视](https://www.mvyxws.com/)
-  - [グラビアアイドル销售榜](https://www.sokmil.com/idol/)
+  - [グラビア销售榜](https://www.sokmil.com/idol/)
   - [Chrome插件](http://chromecj.com/)
   - [小霸王](https://www.yikm.net/)
   - [雀魂](https://game.mahjongsoul.com/) [雀姬](https://www.queji.tw/web/)
@@ -135,11 +136,9 @@
   - [まんだらけ二手通販](https://order.mandarake.co.jp/order/)
   - [禁漫網址發布頁](http://jmcomic.xyz/)
   - [实时新型冠状](https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3&city=%E5%90%89%E6%9E%97-%E5%90%89%E6%9E%97)  [163更新新冠](https://wp.m.163.com/163/page/news/virus_report/index.html?_nw_=1&_anw_=1)
-  - [有名人Instagram](https://instagrammernews.com/)
-  - [BBS5ch](http://pink.x5ch.xyz/r/avideo2/) [BBSPINK - ビュアデモ](https://www.kyodemo.net/sdemo/k/47)
   - [宽带综合症候群](http://bgm.tv/group/download/forum)
   - [技术宅真可怕](http://bgm.tv/group/a/forum)
-  - [ランキングー](https://rankingoo.net/)
+  - [rank](https://rankingoo.net/)
   - [Chevereto](https://www.assdrty.com/loveuyeah/albums)
   - [默克诊疗手册](https://www.msdmanuals.cn/home)
   - [撮影場所案内](http://loca.ash.jp/)
@@ -160,4 +159,3 @@
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
   - [应用商店](https://app.mi.com/)
   - 
- 
