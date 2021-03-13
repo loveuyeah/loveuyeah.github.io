@@ -1,4 +1,3 @@
-- bookmarks
   - [bing](https://cn.bing.com/)  [搜狗](https://wap.sogou.com/)   [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast)
   - 
   - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [CollectedNotes](https://collectednotes.com/loveuyeah)    [xNote编辑](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm)
@@ -6,7 +5,7 @@
   - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)   [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/) 
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://news.livedoor.com/)  [aunews](https://portal.auone.jp/)  [So-net](https://www.so-net.ne.jp/m/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
   - [IT之家](https://m.ithome.com/)   [IT之家滚动](https://www.ithome.com/list/)
-  - [直播吧](https://www.zhibo8.cc/) [虎扑社区](https://m.hupu.com/bbs) [虎扑](https://nba.hupu.com/) [绝地](https://bbs.hupu.com/pubg) [湿乎乎](https://bbs.hupu.com/vote) 
+  - [直播吧](https://www.zhibo8.cc/) [虎扑社区](https://m.hupu.com/bbs) [虎扑](https://nba.hupu.com/)  [湿乎乎](https://bbs.hupu.com/vote) 
   - [Inoreader](https://www.inoreader.com/web_pages)   [Inoreader92](https://92.247.181.40/starred)  [Innoreader](https://www.innoreader.com/)    [TheOldReader](https://theoldreader.com/)   [feedly](https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fhdblog.me%2Ffeed%2F)
   - [搜索哔哩](https://m.bilibili.com/search)   [1376910](https://search.bilibili.com/all?keyword=1376910)    [初中](https://search.bilibili.com/all?keyword=20011230%E5%88%9D%E4%B8%AD) [西瓜](https://www.ixigua.com/home/1812418163900660) 
   - [Yahoo Mail](https://mail.yahoo.com/d/folders/27)   [QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=xyIOMNDR3fIGFSZ4&r=8f621ee4ea7006ff827fafebb5805b60) [88邮箱](https://mail.88.com/mail/#/home)
@@ -17,20 +16,18 @@
   - [万维百科](https://ja.wanweibaike.com/)  [万维百科](https://www.wanweibaike.com/) [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
   - [精品软件区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
   - [今日热榜](https://tophub.today) [鱼塘热榜](https://mo.fish/attention)  [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [新闻聚合MikuTools](https://tools.miku.ac/news/)     [抽屉榜](https://m.chouti.com/all/hot) 
-  - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike) [全现在](https://www.allnow.com/) [果壳](https://www.guokr.com/) [数读](https://data.163.com/special/datablog/) 
-  - 
-  - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)   [m3u8在线播放器](https://m3u8-player.com/)
+  - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike)  [果壳](https://www.guokr.com/) 
   - 
   - [天翼云盘](https://cloud.189.cn/main.action#home)    [天翼云家庭](https://h5.cloud.189.cn/main.html#/family)
   - [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html)
   - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接云盘](http://pan-yz.chaoxing.com/)   
   - [蓝奏常用](https://ww.lanzous.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php)
   - [onedrive](https://login.microsoftonline.com/)
-  - [Teambition](https://www.teambition.com/app/pan/org/5f479a86100f4440682d8f4c/space/b3164a9d9a206554/folder/576656db9b8f9f87e6fd2eda23b75a74)
-  - [阿里云盘](https://www.aliyundrive.com/drive)
+  - [阿里云盘](https://www.aliyundrive.com/sign/in)
+  - [Teambition](https://www.teambition.com/todo)
+  - [小米云](https://i.mi.com/#/)
   - [Nutstore Cloud Disk](https://www.jianguoyun.com/d/home#/)
   - [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
-  - [小米云](https://i.mi.com/#/)
   - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/)
   - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)  [酷族网软](https://www.kzwr.com/) [曲奇云](https://quqi.com/2739591/0)
   - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/)
@@ -39,10 +36,7 @@
   - 
   - [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) 
   - 
-  - [高德地图](https://m.amap.com/) [百度地图](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/) [地球在线](https://www.earthol.com/view-7259.html)
-  - 
   - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) 
-  - 
   - 
   - [JAVLibrary](http://www.b47w.com/cn/mv_favstars.php)
   - [花堂](https://www.98asaserq1.xyz/forum-95-1.html) 
@@ -76,9 +70,13 @@
   - [五弹幕](https://www.5dm.tv/)
   - [手机看片](http://www.wodedy.net/)
   - 
-  - [灌篮手游](https://tieba.baidu.com/f?ie=utf-8&kw=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E6%89%8B%E6%B8%B8) [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml) 
+  - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)   [m3u8在线播放器](https://m3u8-player.com/)
+  - 
+  - [灌篮手游](https://tieba.baidu.com/f?ie=utf-8&kw=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E6%89%8B%E6%B8%B8) [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml)  [绝地](https://bbs.hupu.com/pubg)
   - 
   - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656) [YouTube](https://www.youtube.com/feed/subscriptions/) [YouTube账户](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber) [Instagram](https://www.instagram.com/)
+  - 
+  - [高德地图](https://m.amap.com/) [百度地图](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/) [地球在线](https://www.earthol.com/view-7259.html)
   - ==================================
   - ==================================
   - [动漫星空](http://acg.gamersky.com/hot/)
@@ -138,11 +136,23 @@
   - [MEN'S NON-NO WEB](https://www.mensnonno.jp/)
   - [LEON](https://www.leon.jp/)
   - [ZOZO](https://zozo.jp/)
+  - [数读](https://data.163.com/special/datablog/) 
   - [電撃ホビーウェブ](https://hobby.dengeki.com/)
   - [本地宝](http://cc.bendibao.com/)
   - [Visual Capitalist](https://www.visualcapitalist.com/)
-  - [Top Wallpapers](https://wallhaven.cc/toplist)
+  - [TopWallpapers](https://wallhaven.cc/toplist)
   - [爱范儿](https://www.ifanr.com/)
+  - [全现在](https://www.allnow.com/)
+  - [ENCOUNT](https://encount.press/)
+  - [PR TIMES](https://prtimes.jp/entertainment/)
+  - [Filmarks映画情報](https://filmarks.com/)
+  - [食品産業新聞社ニュースWEB](https://www.ssnp.co.jp/index.html)
+  - [755](https://7gogo.jp/k504rAKjbNlM)
+  - [划水日报](https://www.123456789.ooo/)
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
