@@ -41,7 +41,7 @@
   - [JAVLibrary](http://www.b47w.com/cn/mv_favstars.php)
   - [花堂](https://www.98asaserq1.xyz/forum-95-1.html) 
   - [FANZAニュース](https://news.dmm.co.jp/)
-  - [AV男優まとめ](http://avdanyuwiki.com/)
+  - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/)
   - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   [98eBay](https://www.ebay.com/usr/sehu_7023)   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah)
@@ -70,9 +70,12 @@
   - [五弹幕](https://www.5dm.tv/)
   - [手机看片](http://www.wodedy.net/)
   - 
-  - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)   [m3u8在线播放器](https://m3u8-player.com/)
+  - [tv](https://loveuyeah.hatenablog.com/entry/2019/12/19/155349)   [m3u8在线播放器](https://m3u8-player.com/) [Base64](https://base64.us/)
   - 
-  - [灌篮手游](https://tieba.baidu.com/f?ie=utf-8&kw=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E6%89%8B%E6%B8%B8) [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml)  [绝地](https://bbs.hupu.com/pubg)
+  - [灌篮手游](https://tieba.baidu.com/f?ie=utf-8&kw=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E6%89%8B%E6%B8%B8) [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml)  [绝地](https://bbs.hupu.com/pubg) [eva](https://tieba.baidu.com/f?kw=eva&ie=utf-8) 
+  - 
+  - 
+  - [SHOWROOM](https://www.showroom-live.com/onlive) [まんだらけ通販齋藤飛鳥](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂46公式サイト](http://www.nogizaka46.com/smph/) [エケペディア](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚红实绿](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [乃木坂46最新情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) 
   - 
   - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656) [YouTube](https://www.youtube.com/feed/subscriptions/) [YouTube账户](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber) [Instagram](https://www.instagram.com/)
   - 
@@ -148,10 +151,12 @@
   - [Filmarks映画情報](https://filmarks.com/)
   - [食品産業新聞社ニュースWEB](https://www.ssnp.co.jp/index.html)
   - [755](https://7gogo.jp/k504rAKjbNlM)
-  - [划水日报](https://www.123456789.ooo/)
-  - 
-  - 
-  - 
+  - [日本通](https://www.517japan.com/)
+  - [Menclub](https://menclub.hk/)
+  - [TVガイド](https://www.tvguide.or.jp/)
+  - [MOVIEWALKER](https://moviewalker.jp/)
+  - [ナタリー](https://natalie.mu/)
+  - [２ちゃんねる検索](http://find.2ch.sc/)
   - 
   - 
   - 
@@ -166,5 +171,7 @@
   - [bookmarksnote](https://note.mu/loveuyeah/n/nbd845647cc8b)
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/)
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
-  - [应用商店](https://app.mi.com/)
+  - [Firefoxダウンロード](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly)
+  - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
+  - 
   - 
