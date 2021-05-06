@@ -42,7 +42,7 @@
   - 
   - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/)
   - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/)
-  - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   [98t.org](98t.org)   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
+  - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   98t.org   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah)
   - 
