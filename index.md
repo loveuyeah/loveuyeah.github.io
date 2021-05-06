@@ -1,19 +1,19 @@
   - [bing](https://cn.bing.com/)  [搜狗](https://wap.sogou.com/)   [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast) [Ecosia](https://www.ecosia.org/)
   - 
-  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [CollectedNotes](https://collectednotes.com/loveuyeah)    [xNote编辑](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) [Notepin](https://loveuyeah.notepin.co)
+  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [Collected](https://collectednotes.com/loveuyeah)    [xNote编辑](http://www.xnote.cn/note/edit/55422931/)   [xNote列表](http://www.xnote.cn/note/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) [Notepin](https://loveuyeah.notepin.co)
   - 
-  - [微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO)       [关注视频](https://weibo.com/tv/follow) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/)  
+  - [微博](https://weibo.com/loveuyeah/home?is_all=1&is_new=1)       [关注视频](https://weibo.com/tv/follow) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/)  
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://news.livedoor.com/)  [aunews](https://portal.auone.jp/)  [So-net](https://www.so-net.ne.jp/m/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
   - [IT之家](https://m.ithome.com/)   [IT之家滚动](https://www.ithome.com/list/)
   - [直播吧](https://www.zhibo8.cc/) [虎扑社区](https://m.hupu.com/bbs) [虎扑](https://nba.hupu.com/)  [湿乎乎](https://bbs.hupu.com/vote) 
   - [Inoreader](https://www.inoreader.com/web_pages)   [Inoreader92](https://92.247.181.40/starred)  [Innoreader](https://www.innoreader.com/)    [TheOldReader](https://theoldreader.com/)   [feedly](https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fhdblog.me%2Ffeed%2F)
   - [搜索哔哩](https://m.bilibili.com/search)   [1376910](https://search.bilibili.com/all?keyword=1376910)  [收藏夹](https://space.bilibili.com/156249/favlist?fid=324530349&ftype=create)  [初中](https://search.bilibili.com/all?keyword=20011230%E5%88%9D%E4%B8%AD) [西瓜](https://www.ixigua.com/home/1812418163900660) 
   - [Yahoo Mail](https://mail.yahoo.com/d/folders/27)   [QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=xyIOMNDR3fIGFSZ4&r=8f621ee4ea7006ff827fafebb5805b60) [88邮箱](https://mail.88.com/mail/#/home) [Outlook](https://outlook.live.com/owa/)
-  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [我来笔记](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [MindMaster](https://mm.edrawsoft.cn/files)
+  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [我来笔记](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) 
   - [知乎](https://www.zhihu.com/copyright)  [知乎日报](http://zhihudaily.me/) [收藏夹知乎](https://www.zhihu.com/collections/mine)
   - [レイ的豆瓣](https://m.douban.com/people/loveuyeah//)  
   - [V2分享发现](https://www.v2ex.com/go/share)  [V2问与答](https://www.v2ex.com/go/qna)   [V2分享创造](https://www.v2ex.com/go/create)  [JIKE](https://jike.info/) 
-  - [万维百科](https://ja.wanweibaike.com/)  [万维百科](https://www.wanweibaike.com/) [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
+  - [万维百科](https://www.wanweibaike.com/) [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
   - [精品软件区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
   - [今日热榜](https://tophub.today) [鱼塘热榜](https://mo.fish/attention)  [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [MikuTools](https://tools.miku.ac/news/)     [抽屉榜](https://m.chouti.com/all/hot) 
   - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike)  [果壳](https://www.guokr.com/) 
@@ -29,28 +29,26 @@
   - [坚果云](https://www.jianguoyun.com/d/home#/)
   - [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
   - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/)
-  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)  [酷族网软](https://www.kzwr.com/) [曲奇云](https://quqi.com/2739591/0)
+  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)   [曲奇云](https://quqi.com/2739591/0)
   - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/)
   - 
   - [Clantu](https://clantu.com/albums)    [尼康](https://nis.nikonimagespace.com/html/myphoto/)    [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634)  [笑果图床](https://imagelol.com/loveuyeah/albums/?sort=date_desc&page=2&seek=H75p)
   - 
   - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) 
   - 
-  - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) 
+  - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) [云朵](https://fanyi.caiyunapp.com/#/)
   - 
   - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/) [エケペディア](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚红实绿](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [乃木坂情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [坂道46LOVER](https://nogi46p.com/) [坂道日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [cobra](https://space.bilibili.com/297134930/article) 
   - 
-  - [JAVLibrary](http://www.b47w.com/cn/mv_favstars.php)
-  - [花堂](https://www.98asaserq1.xyz/forum-95-1.html) 
-  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢いnews](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/)
+  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/)
   - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/)
-  - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   [98eBay](98t.org)   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
+  - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   [98t.org](98t.org)   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah)
   - 
   - [什么值得买](https://www.smzdm.com/) [Chiphell](https://www.chiphell.com/)
   - 
-  - [Nike](https://m.nike.com/ ) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [阿迪达斯](https://www.adidas.com.cn/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [TNF](https://www.thenorthface.com.cn/) [哥伦](http://www.columbiasports.cn/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [勘履者](https://kenlu.net/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [麦](https://www.mcdonalds.com.cn/) [Mc](https://www.mcdonalds.co.jp/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [kfc](https://www.kfc.co.jp/) [Starbucks](https://www.starbucks.co.jp/)
+  - [Nike](https://m.nike.com/ ) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/)[阿迪达斯](https://www.adidas.com.cn/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [勘履者](https://kenlu.net/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) 
   - 
   - [网易云音乐](https://music.163.com/#/playlist?id=3778087) [YesPlayMusic](https://music.qier222.com/#/) [哔哩哔哩音乐](https://www.bilibili.com/audio/am28440788) [YesPlayMusic2](https://allen-music.vercel.app/#/)
   - 
@@ -59,7 +57,7 @@
   - [高德地图](https://m.amap.com/) [百度地图](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/) [地球在线](https://www.earthol.com/view-7259.html) [街景地图](https://www.earthol.org/city-88.html) [地图在线](http://www.gditu.net/) 
   - 
   - [巧克力直播网](http://www.qklnews.com/)
-  - [JRKAN直播](http://jrkan.com/)
+  - [JRKAN](http://jrkan.com/)
   - [优酷体育](https://sports.youku.com/?spm=a2ha1.14919748_TIYU_SEC00SPORTS00SNOOKER.header-logo-wrap.A!2)
   - [天下足球网](http://www.txzqw.me/thread-htm-fid-28.html)
   - [球头条直播](https://www.qttzb.com/)
@@ -110,7 +108,7 @@
   - [表纸](https://magazinesummit.jp/)
   - [女優水着](http://www.mizugigurabia.com/)
   - [buzzplus](https://buzz-plus.com/)
-  - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo) [foodpanda hk](https://www.foodpanda.hk/zh/city/hong-kong) [foodpanda jp](https://www.foodpanda.co.jp/city/yokohama) [foodpanda tw](https://www.foodpanda.com.tw/city/taipei-city) [宅面](https://www.takumen.com/)
+  - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo) [foodpandahk](https://www.foodpanda.hk/zh/city/hong-kong) [foodpandajp](https://www.foodpanda.co.jp/city/yokohama) [foodpandatw](https://www.foodpanda.com.tw/city/taipei-city) [宅面](https://www.takumen.com/) [Mc](https://www.mcdonalds.co.jp/) [kfc](https://www.kfc.co.jp/) [Starbucks](https://www.starbucks.co.jp/) 
   - [mynavi娱乐](https://news.mynavi.jp/top/entertainment/entertainment/)
   - [アニメ総研](https://akiba-souken.com/anime/ranking/)
   - [知恵袋](https://chiebukuro.yahoo.co.jp/category/2078297371/question/list?flg=1)
@@ -136,8 +134,8 @@
   - [默克诊疗手册](https://www.msdmanuals.cn/home)
   - [撮影場所案内](http://loca.ash.jp/)
   - [HYPEBEAST](https://hypebeast.com/latest)
-  - [GQ JAPAN](https://www.gqjapan.jp/) [GQtaiwan](https://www.gq.com.tw/) [GQ大陆](https://www.gq.com.cn/) 
-  - [MEN'S NON-NO WEB](https://www.mensnonno.jp/)
+  - [GQJAPAN](https://www.gqjapan.jp/) [GQtaiwan](https://www.gq.com.tw/) [GQ大陆](https://www.gq.com.cn/) 
+  - [MEN'S NON-NO](https://www.mensnonno.jp/)
   - [LEON](https://www.leon.jp/)
   - [ZOZO](https://zozo.jp/)
   - [数读](https://data.163.com/special/datablog/) 
@@ -190,4 +188,5 @@
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
   - [Firefoxダウンロード](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
+  - 
   - 
