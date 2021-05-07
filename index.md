@@ -30,7 +30,8 @@
   - [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
   - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/)
   - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)   [曲奇云](https://quqi.com/2739591/0)
-  - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/)
+  - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/) 
+  - [s-ul](https://s-ul.eu/files)
   - 
   - [Clantu](https://clantu.com/albums)    [尼康](https://nis.nikonimagespace.com/html/myphoto/)    [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634)  [笑果图床](https://imagelol.com/loveuyeah/albums/?sort=date_desc&page=2&seek=H75p)
   - 
@@ -38,7 +39,7 @@
   - 
   - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) [云朵](https://fanyi.caiyunapp.com/#/)
   - 
-  - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/) [エケペディア](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚红实绿](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [乃木坂情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [坂道46LOVER](https://nogi46p.com/) [坂道日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [cobra](https://space.bilibili.com/297134930/article) 
+  - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/)  [日向坂公式](https://www.hinatazaka46.com/s/official/news/list?ima=0000&dy=202105)  [エケペディア](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚红实绿](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [乃木坂情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [坂道46LOVER](https://nogi46p.com/) [坂道日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [cobra](https://space.bilibili.com/297134930/article) 
   - 
   - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/)
   - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/)
@@ -108,7 +109,7 @@
   - [表纸](https://magazinesummit.jp/)
   - [女優水着](http://www.mizugigurabia.com/)
   - [buzzplus](https://buzz-plus.com/)
-  - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo) [foodpandahk](https://www.foodpanda.hk/zh/city/hong-kong) [foodpandajp](https://www.foodpanda.co.jp/city/yokohama) [foodpandatw](https://www.foodpanda.com.tw/city/taipei-city) [宅面](https://www.takumen.com/) [Mc](https://www.mcdonalds.co.jp/) [kfc](https://www.kfc.co.jp/) [Starbucks](https://www.starbucks.co.jp/) 
+  - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo) [foodpandahk](https://www.foodpanda.hk/zh/city/hong-kong) [foodpandajp](https://www.foodpanda.co.jp/city/yokohama) [foodpandatw](https://www.foodpanda.com.tw/city/taipei-city) [宅面](https://www.takumen.com/) [Mc](https://www.mcdonalds.co.jp/) [kfc](https://www.kfc.co.jp/) [Starbucks](https://www.starbucks.co.jp/) [出前館](https://demae-can.com/)
   - [mynavi娱乐](https://news.mynavi.jp/top/entertainment/entertainment/)
   - [アニメ総研](https://akiba-souken.com/anime/ranking/)
   - [知恵袋](https://chiebukuro.yahoo.co.jp/category/2078297371/question/list?flg=1)
@@ -168,8 +169,13 @@
   - [站酷ZCOOL手工](https://www.zcool.com.cn/discover?cate=611&subCate=656&hasVideo=0&city=0&college=0&recommendLevel=2&sort=9&page=1)
   - [推车汉](https://www.tuichehan.com/dgny)
   - [Arms MAGAZINE](https://hobbyjapan.co.jp/armsweb/)
-  - 
-  - 
+  - [一休](https://restaurant.ikyu.com/?visit_date=2021-05-08&visit_time=19%3A00&expand_visit_minutes=60&num_guests=2)
+  - [Yahoo!テレビ](https://tv.yahoo.co.jp/news)
+  - [Yahoo!映画](https://movies.yahoo.co.jp/)
+  - [mybestおすすめ情報サービス](https://my-best.com/)
+  - [Yahoo!creators](https://creators.yahoo.co.jp/)
+  - [热铁盒工具箱](https://tool.retiehe.com/)
+  - [soccerking](https://www.soccer-king.jp/news/world?cx_top=head)
   - 
   - 
   - 
@@ -188,4 +194,5 @@
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
   - [Firefoxダウンロード](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
+  - 
   - 
