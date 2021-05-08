@@ -18,7 +18,7 @@
   - [今日热榜](https://tophub.today) [鱼塘热榜](https://mo.fish/attention)  [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [MikuTools](https://tools.miku.ac/news/)     [抽屉榜](https://m.chouti.com/all/hot) 
   - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike)  [果壳](https://www.guokr.com/) 
   - 
-  - [蓝奏常用](https://ww.lanzous.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php)
+  - [蓝奏常用](https://ww.lanzous.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php) [杂货](https://loveuyeah.lanzous.com/b00oiyymd)
   - [天翼云盘](https://cloud.189.cn/main.action#home)    [天翼云家庭](https://h5.cloud.189.cn/main.html#/family)
   - [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html)
   - [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接](http://pan-yz.chaoxing.com/)   
@@ -176,7 +176,9 @@
   - [Yahoo!creators](https://creators.yahoo.co.jp/)
   - [热铁盒工具箱](https://tool.retiehe.com/)
   - [soccerking](https://www.soccer-king.jp/news/world?cx_top=head)
-  - 
+  - [softmap](https://www.sofmap.com/) [アキバsofmap](https://a.sofmap.com/)
+  - [0101](https://voi.0101.co.jp/voi/index.jsp?cid=oio_voi_pc_top_foot_voi) [man](https://voi.0101.co.jp/voi/crdlst/way-4_gender-2.html?intid=ttop_moreMRank_cdnListRank) 
+  -  
   - 
   - 
   - 
@@ -194,5 +196,4 @@
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
   - [Firefoxダウンロード](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
-  - 
   - 
