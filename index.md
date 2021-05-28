@@ -45,7 +45,7 @@
   - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) 
   - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   98t.org   [javlibraryeBay](https://www.ebay.com/usr/javlibrary)
   - 
-  - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah)
+  - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah) [618](https://www.wolai.com/loveuyeah/9C75ALZss229ybc9CUCruH)
   - 
   - [什么值得买](https://www.smzdm.com/) [Chiphell](https://www.chiphell.com/)
   - 
@@ -182,6 +182,12 @@
   - [おっぱいチャンネル](https://boobstitsoppai.wixsite.com/oppaichannel/home) 
   - [Archived Moe](https://archived.moe/)
   - [Crazy Games](https://www.crazygames.com/)
+  - [36氪](https://www.36kr.com/)
+  - [cnBeta](https://www.cnbeta.com/)
+  - [差评](https://chaping.cn/)
+  - [后续](https://houxu.app/)
+  - [B◓KUの簡単ンまい飯ブログ](https://www.bokuno.work/) 
+  - [hatena blog](https://hatenablog.com/)
   - 
   - 
   - 
