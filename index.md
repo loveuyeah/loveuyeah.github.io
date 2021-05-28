@@ -188,7 +188,7 @@
   - [后续](https://houxu.app/)
   - [B◓KUの簡単ンまい飯ブログ](https://www.bokuno.work/) 
   - [hatena blog](https://hatenablog.com/)
-  - 
+  - [VOGUE GIRL](https://voguegirl.jp/)
   - 
   - 
   - 
@@ -206,11 +206,16 @@
   - [loveuyeah bloggi](https://loveuyeah.bloggi.co/)
   - [Notepin](https://loveuyeah.notepin.co) 
   - [pastebin](https://pastebin.com/) 
+  - [Write.as](https://loveuyeah.writeas.com/) 
+  - [bearlog](https://ming.bearblog.dev/)
   - [hatenablog diary](https://loveuyeah.hatenablog.com/)
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   
   - [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
+  - [Ghostbin](https://ghostbin.com/paste/gtqBJ)
   - [Firefoxダウンロード](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) 
   - [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
   - [HTML to MD](https://cloudconvert.com/html-to-md)
+  - 
+  - 
   - 
