@@ -178,7 +178,7 @@
   - [soccerking](https://www.soccer-king.jp/news/world?cx_top=head)
   - [softmap](https://www.sofmap.com/) [アキバsofmap](https://a.sofmap.com/)
   - [0101](https://voi.0101.co.jp/voi/index.jsp?cid=oio_voi_pc_top_foot_voi) [man](https://voi.0101.co.jp/voi/crdlst/way-4_gender-2.html?intid=ttop_moreMRank_cdnListRank) 
-  - [RBB TODAY](https://www.rbbtoday.com/category/entertainment/latest/?page=1)
+  - [RBB TODAY](https://www.rbbtoday.com/category/entertainment/latest/?page=1) [グラビアRBB TODAY](https://www.rbbtoday.com/category/entertainment/gravure/latest/)
   - [おっぱいチャンネル](https://boobstitsoppai.wixsite.com/oppaichannel/home) 
   - [Archived Moe](https://archived.moe/)
   - [Crazy Games](https://www.crazygames.com/)
@@ -189,8 +189,8 @@
   - [B◓KUの簡単ンまい飯ブログ](https://www.bokuno.work/) 
   - [hatena blog](https://hatenablog.com/)
   - [VOGUE GIRL](https://voguegirl.jp/)
-  - 
-  - 
+  - [素人AV動画まとめ](https://shiroutoav.net/)
+  - [NetPan共享网盘](https://www.netpan.cn/)
   - 
   - 
   - 
@@ -208,6 +208,7 @@
   - [pastebin](https://pastebin.com/) 
   - [Write.as](https://loveuyeah.writeas.com/) 
   - [bearlog](https://ming.bearblog.dev/)
+  - [Dashboard Bear Blog](https://bearblog.dev/dashboard/)
   - [hatenablog diary](https://loveuyeah.hatenablog.com/)
   - [书签电脑版](https://github.com/loveuyeah/loveuyeah.github.io/blob/master/bookmarks.md)   
   - [allmarksnote](https://note.com/loveuyeah/n/n77ec120c0906) 
@@ -216,6 +217,5 @@
   - [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
   - [HTML to MD](https://cloudconvert.com/html-to-md)
-  - 
   - 
   - 
