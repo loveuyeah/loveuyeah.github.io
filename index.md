@@ -49,7 +49,7 @@
   - 
   - [什么值得买](https://www.smzdm.com/) [Chiphell](https://www.chiphell.com/)
   - 
-  - [Nike](https://m.nike.com/ ) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/) [阿迪达斯](https://www.adidas.com.cn/) [TOPSPORTS](https://topsports.jd.com/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [勘履者](https://kenlu.net/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) 
+  - [Nike](https://m.nike.com/ ) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/) [阿迪达斯](https://www.adidas.com.cn/) [TOPSPORTS](https://topsports.jd.com/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [勘履者](https://kenlu.net/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) [耐克天猫](https://nike.tmall.com/) [阿迪天猫](https://adidas.tmall.com/)
   - 
   - [网易云音乐](https://music.163.com/#/playlist?id=3778087) [YesPlayMusic](https://music.qier222.com/#/) [哔哩哔哩音乐](https://www.bilibili.com/audio/am28440788) [YesPlayMusic2](https://allen-music.vercel.app/#/)
   - 
@@ -191,6 +191,16 @@
   - [VOGUE GIRL](https://voguegirl.jp/)
   - [素人AV動画まとめ](https://shiroutoav.net/)
   - [NetPan共享网盘](https://www.netpan.cn/)
+  - [蚁阅](https://rss.anyant.com/feed?id=40vz58fh)
+  - [アイドルニュース特集](https://entameclip.com/news/idol) [グラビアニュース特集] (https://entameclip.com/news/gravure) [アクセスランキング](https://entameclip.com/ranking) [坂道グループ](https://entameclip.com/news/idol/46group)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -217,5 +227,6 @@
   - [耍下网盘](https://assets.shuax.com/)
   - [应用商店](https://app.mi.com/) [国外App](https://www.guandao.cc/)
   - [HTML to MD](https://cloudconvert.com/html-to-md)
+  - 
   - 
   - 
