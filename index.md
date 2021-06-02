@@ -192,7 +192,7 @@
   - [素人AV動画まとめ](https://shiroutoav.net/)
   - [NetPan共享网盘](https://www.netpan.cn/)
   - [蚁阅](https://rss.anyant.com/feed?id=40vz58fh)
-  - [アイドルニュース特集](https://entameclip.com/news/idol)  [グラビアニュース特集] (https://entameclip.com/news/gravure) [アクセスランキング](https://entameclip.com/ranking) [坂道グループ](https://entameclip.com/news/idol/46group)
+  - [アイドルニュース特集](https://entameclip.com/news/idol)  [グラビアニュース特集](https://entameclip.com/news/gravure) [アクセスランキング](https://entameclip.com/ranking) [坂道グループ](https://entameclip.com/news/idol/46group)
   - 
   - 
   - 
