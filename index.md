@@ -26,13 +26,8 @@
   - [onedrive](https://login.microsoftonline.com/)
   - [阿里云盘](https://www.aliyundrive.com/sign/in)
   - [Teambition](https://www.teambition.com/todo)
-  - [小米云](https://i.mi.com/#/)
-  - [坚果云](https://www.jianguoyun.com/d/home#/)
-  - [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv)
-  - [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/)
-  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)   [曲奇云](https://quqi.com/2739591/0)
-  - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/) [NetPan共享](https://www.netpan.cn/) [飞鸟快传](https://fnkc.net/)
-  - [s-ul](https://s-ul.eu/files)
+  - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/all)   [曲奇云](https://quqi.com/2739591/0) [AmazonDrive](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv) [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/) [s-ul](https://s-ul.eu/files) [坚果云](https://www.jianguoyun.com/d/home#/) [小米云](https://i.mi.com/#/) 
+  - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/) [NetPan共享](https://www.netpan.cn/) [飞鸟快传](https://fnkc.net/) 
   - 
   - [Clantu](https://clantu.com/albums)    [尼康](https://nis.nikonimagespace.com/html/myphoto/)  [PlayMemories](https://playmemoriesonline.com/all)  [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634)  [笑果](https://imagelol.com/loveuyeah) [即刻](https://img.gksec.com/) [路过](https://imgtu.com/loveuyeah/albums)
   - 
@@ -42,9 +37,7 @@
   - 
   - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/)  [日向坂公式](https://www.hinatazaka46.com/s/official/news/list?ima=0000&dy=202105)  [エケペディア](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚红实绿](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [乃木坂情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [坂道46LOVER](https://nogi46p.com/) [坂道日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [docomo](https://ent.smt.docomo.ne.jp/search/%E4%B9%83%E6%9C%A8%E5%9D%82) [cobra](https://space.bilibili.com/297134930/article) 
   - 
-  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/)
-  - [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking)
-  - [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   98t.org   
+  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/) [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking) [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   98t.org   
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah) [618](https://www.wolai.com/loveuyeah/9C75ALZss229ybc9CUCruH) [什么值得买](https://www.smzdm.com/) [数码值得买](https://post.smzdm.com/fenlei/diannaoshuma/) [Chiphell](https://www.chiphell.com/) [eBay](https://www.ebay.com/)
   - 
@@ -52,18 +45,11 @@
   - 
   - [网易云音乐](https://music.163.com/#/playlist?id=3778087) [YesPlayMusic](https://music.qier222.com/#/) [哔哩音乐](https://www.bilibili.com/audio/am28440788) [YesPlayMusic2](https://allen-music.vercel.app/#/)
   - 
-  - [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml)  [绝地](https://bbs.hupu.com/pubg) [eva](https://tieba.baidu.com/f?kw=eva&ie=utf-8) [EpicStore](https://www.epicgames.com/store/ja/free-games)
+  - [fifa4吧](https://tieba.baidu.com/f?ie=utf-8&kw=fifaonline4&fr=search) [洛奇吧](https://tieba.baidu.com/f?kw=%E6%B4%9B%E5%A5%87&lp=1501&mo_device=1) [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html) [FIFA4](https://fo4.qq.com/main.shtml)  [绝地](https://bbs.hupu.com/pubg) [eva](https://tieba.baidu.com/f?kw=eva&ie=utf-8) [EpicStore](https://www.epicgames.com/store/ja/free-games) [SNOOKER](http://www.heyzxz.me/pcol/)
   - 
   - [高德地图](https://m.amap.com/) [百度移动](https://map.baidu.com/mobile/webapp/index/index/) [腾讯地图](http://map.qq.com/m/place/search/) [地球在线](https://www.earthol.com/view-7259.html) [街景地图](https://www.earthol.org/city-88.html) [地图在线](http://www.gditu.net/) [Yahoo!地図](https://map.yahoo.co.jp/?lat=39.04738&lon=126.49068&zoom=4&maptype=satellite) [百度地图](https://map.baidu.com/@13952090.274983633,5419065.196232074,17.34z) 
   - 
-  - [巧克力直播网](http://www.qklnews.com/)
-  - [jrkan發佈頁](http://qiumi1314.com/)
-  - [优酷体育](https://sports.youku.com/?spm=a2ha1.14919748_TIYU_SEC00SPORTS00SNOOKER.header-logo-wrap.A!2)
-  - [天下足球网](http://www.txzqw.me/thread-htm-fid-28.html)
-  - [球头条直播](https://www.qttzb.com/)
-  - [企鹅直播](http://live.qq.com/10000880)
-  - [飞速直播](http://feisuzhibo.com/)
-  - [绝地求生直播](https://m.douyu.com/list/room?type=jdqs) [699689](https://www.douyu.com/699689) [3168536](https://www.douyu.com/3168536) [62851](https://www.douyu.com/62851) [斗鱼关注](https://www.douyu.com/directory/myFollow) 
+  - [巧克力直播网](http://www.qklnews.com/) [jrkan發佈頁](http://qiumi1314.com/) [优酷体育](https://sports.youku.com/?spm=a2ha1.14919748_TIYU_SEC00SPORTS00SNOOKER.header-logo-wrap.A!2) [天下足球网](http://www.txzqw.me/thread-htm-fid-28.html) [球头条直播](https://www.qttzb.com/) [企鹅直播](http://live.qq.com/10000880) [飞速直播](http://feisuzhibo.com/) [绝地求生直播](https://m.douyu.com/list/room?type=jdqs) [699689](https://www.douyu.com/699689) [3168536](https://www.douyu.com/3168536) [62851](https://www.douyu.com/62851) [斗鱼关注](https://www.douyu.com/directory/myFollow) 
   - 
   - [最新单机](https://bbs.3dmgame.com/game0day) [AGE动漫](https://www.agefans.tv/update) [爱看番](http://www.ikanfan.com/) [233](https://www.dm233.tv/) [ZzzFun](http://www.zzzfun.com/) [手机看片](http://www.wodedy.net/) [央视网](https://m.cctv.com/quanzhannav2019/index.shtml?spm=0.P9W2sV3NqCTC.0.0) [看看1](http://live.kankanews.com/huikan/) [看看2](http://live.kankanews.com/)
   - 
@@ -106,7 +92,6 @@
   - [SankakuChannel](https://chan.sankakucomplex.com/)
   - [東京風俗](https://fujoho.jp/index.php?p=shop_list&t=13)
   - [So-net](https://www.so-net.ne.jp/m/)  
-  - 
   - [进击的巨人](https://manhua.fzdm.com/39/)
   - [エロ漫画](https://shikotch.net/)
   - [医学微视](https://www.mvyxws.com/)
@@ -123,7 +108,7 @@
   - [宽带综合症候群](http://bgm.tv/group/download/forum)
   - [技术宅真可怕](http://bgm.tv/group/a/forum)
   - [rank](https://rankingoo.net/)
-  - [默克诊疗手册](https://www.msdmanuals.cn/home)
+  - [默克诊疗手册](https://www.msdmanuals.cn/home) [就诊问问](https://ask.nocode.com/)
   - [撮影場所案内](http://loca.ash.jp/)
   - [HYPEBEAST](https://hypebeast.com/latest)
   - [GQJAPAN](https://www.gqjapan.jp/) [GQtaiwan](https://www.gq.com.tw/) [GQ大陆](https://www.gq.com.cn/) 
@@ -175,7 +160,7 @@
   - [cnBeta](https://www.cnbeta.com/)
   - [差评](https://chaping.cn/)
   - [后续](https://houxu.app/)
-  - [B◓KUの簡単ンまい飯ブログ](https://www.bokuno.work/) 
+  - [BoKUの簡単ンまい飯ブログ](https://www.bokuno.work/) 
   - [hatena blog](https://hatenablog.com/)
   - [VOGUE GIRL](https://voguegirl.jp/)
   - [素人AV動画まとめ](https://shiroutoav.net/)
