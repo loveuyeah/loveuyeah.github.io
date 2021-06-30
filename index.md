@@ -19,7 +19,7 @@
   - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike)  [果壳](https://www.guokr.com/) 
   - [Pocket](https://getpocket.com/my-list) [Instapaper](https://www.instapaper.com/u/folder/3128043/pocket)
   - 
-  - [蓝奏常用](https://ww.lanzoux.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php) [杂货](https://loveuyeah.lanzoux.com/b00oiyymd) [天翼云盘](https://cloud.189.cn/main.action#home) [天翼云家庭](https://h5.cloud.189.cn/main.html#/family) [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html) [阿里云盘](https://www.aliyundrive.com/sign/in) [Teambition](https://www.teambition.com/todo) [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接](http://pan-yz.chaoxing.com/) [onedrive](https://login.microsoftonline.com/) 
+  - [蓝奏常用](https://ww.lanzoux.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php) [杂货](https://loveuyeah.lanzoux.com/b00oiyymd) [天翼云盘](https://cloud.189.cn/main.action#home) [天翼云家庭](https://h5.cloud.189.cn/main.html#/family) [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html) [阿里云盘](https://www.aliyundrive.com/sign/in) [Teambition](https://www.teambition.com/todo) [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接](http://pan-yz.chaoxing.com/) [onedrive](https://login.microsoftonline.com/) [百度网盘](https://pan.baidu.com/disk/home#/all?path=%2F&vmode=list) 
   - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/own)  [曲奇云](https://quqi.com/2739591/0) [Amazon](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv) [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/) [s-ul](https://s-ul.eu/files) [坚果云](https://www.jianguoyun.com/d/home#/) [小米云](https://i.mi.com/#/) 
   - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/) [NetPan](https://www.netpan.cn/) [飞鸟快传](https://fnkc.net/) 
   - 
@@ -27,11 +27,9 @@
   - 
   - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) [云图](https://zoom.earth/#view=44.066,125.401,7z/)
   - 
-  - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) [云朵](https://fanyi.caiyunapp.com/#/)
-  - 
   - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/) [48pedia](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚实](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [46LOVER](https://nogi46p.com/) [日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [docomo](https://ent.smt.docomo.ne.jp/search/%E4%B9%83%E6%9C%A8%E5%9D%82) [cobra](https://space.bilibili.com/297134930/article) [抖音](https://www.douyin.com/user/MS4wLjABAAAAKQXtQgTkKLigr675YK72vS99esKMddLmi3GoB1zOIVHhX4l2z06pp1zcfpyR7RLB?extra_params=%7B%22search_id%22%3A%22202106211828250100150342113301CCF9%22%2C%22search_result_id%22%3A%221767613136638551%22%2C%22search_keyword%22%3A%22%E4%B9%83%E6%9C%A8%E5%9D%82%22%2C%22search_type%22%3A%22video%22%7D&enter_method=search_result&enter_from=search_result)
   - 
-  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [いちばんエロいひとへ](https://nice2meetyou2.fc2.xxx/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/) [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking) [clg发布](https://elsbapp.com/)   [名站发布](http://gg.6rxu.xyz/hot.htm)   98t.org   
+  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [いちばんエロいひとへ](https://nice2meetyou2.fc2.xxx/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/) [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking) [clg发布](https://elsbapp.com/)      98t.org   
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah) [618](https://www.wolai.com/loveuyeah/9C75ALZss229ybc9CUCruH) [什么值得买](https://www.smzdm.com/) [数码值得买](https://post.smzdm.com/fenlei/diannaoshuma/) [Chiphell](https://www.chiphell.com/) [eBay](https://www.ebay.com/)
   - 
@@ -48,6 +46,8 @@
   - [AGE动漫](https://www.agefans.tv/update) [爱看番](http://www.ikanfan.com/) [233](https://www.dm233.tv/) [ZzzFun](http://www.zzzfun.com/) [手机看片](http://www.wodedy.net/) [央视网](https://m.cctv.com/quanzhannav2019/index.shtml?spm=0.P9W2sV3NqCTC.0.0) [看看1](http://live.kankanews.com/huikan/) [看看2](http://live.kankanews.com/)
   - 
   - [Base64](https://base64.us/) [热铁盒](https://tool.retiehe.com/) [百分比](https://percentagecalc.org/) [m3u8](https://m3u8-player.com/)  [在线工具](https://tool.lu/) [drrr](https://drrr.com/) [二维码](https://cli.im/deqr) [OCR](https://web.baimiaoapp.com/) [果汁工具](http://guozhivip.com/tool/) [MikuTools](https://tools.miku.ac/) [Bigjpg](https://bigjpg.com/) [HTML to MD](https://cloudconvert.com/html-to-md)
+  - 
+  - [Collins](https://www.collinsdictionary.com/) [三省堂](https://www.sanseido.biz/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) [云朵](https://fanyi.caiyunapp.com/#/)
   - 
   - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656) [YouTube](https://www.youtube.com/feed/subscriptions/) [YouTube账户](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber) [Instagram](https://www.instagram.com/)
   - ==================================
@@ -186,7 +186,7 @@
   - 
   - [Raindrop](https://app.raindrop.io/my/0)
   - [gitlab](https://loveuyeah.gitlab.io/)
-  - [pazuru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [忍者blog管理](https://www.ninja.co.jp/home/)
+  - [pazru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [忍者blog管理](https://www.ninja.co.jp/home/)
   - [typetype](https://ming.typetype.me/) [edit](https://typetype.io/admin/article?refresh=true)
   - [loveuyeah.github.io](https://loveuyeah.github.io/) [Edit](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md)
   - [bookmarks WorkFlowy](https://workflowy.com/s/bookmarks/PJ6fBFkfAQiGtELH)
@@ -202,6 +202,7 @@
   - [hatenablog diary](https://loveuyeah.hatenablog.com/)
   - [Linktree](https://linktr.ee/loveuyeah) [edit](https://linktr.ee/admin)
   - [Taplink](https://taplink.cc/loveuyeah) [edit](https://taplink.at/en/profile/5139686/pages/)
+  - [AllMyLinks](https://allmylinks.com/loveuyeah) [edit](https://allmylinks.com/feed) 
   - [Ghostbin](https://ghostbin.com/paste/gtqBJ)
   - [云集应用](https://www.vm.com/)
   - [Firefox](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) 
