@@ -15,7 +15,7 @@
   - [分享发现](https://www.v2ex.com/go/share)  [问与答](https://www.v2ex.com/go/qna)   [分享创造](https://www.v2ex.com/go/create)  [JIKE](https://jike.info/) 
   - [万维百科](https://www.wanweibaike.com/) [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
   - [精品软件区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
-  - [今日热榜](https://tophub.today) [鱼塘热榜](https://mo.fish/attention)  [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [抽屉榜](https://m.chouti.com/all/hot) 
+  - [今日热榜](https://tophub.today) [鱼塘热榜](https://mo.fish/attention)  [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [抽屉榜](https://m.chouti.com/all/hot) [拓扑排行](https://the.top/frame/list/8)
   - [青年图摘](https://qingniantuzhai.com/) [博海拾贝](https://bh.sb/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [V百科](https://baike.baidu.com/vbaike)  [果壳](https://www.guokr.com/) 
   - [Pocket](https://getpocket.com/my-list) [Instapaper](https://www.instapaper.com/u/folder/3128043/pocket)
   - 
@@ -25,11 +25,11 @@
   - 
   - [尼康](https://nis.nikonimagespace.com/html/myphoto/)  [PlayMemories](https://playmemoriesonline.com/all)  [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634)  [笑果](https://imagelol.com/loveuyeah) [即刻](https://img.gksec.com/) [Lofter](https://loveuyeah.lofter.com/) [Postimages](https://postimg.cc/gallery/WPyX9Xp)
   - 
-  - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) [云图](https://zoom.earth/#view=44.066,125.401,7z/)
+  - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) [云图](https://zoom.earth/#view=44.066,125.401,7z/) [Weather Spark](https://zh.weatherspark.com/y/141801/%E4%B8%AD%E5%9B%BD%E3%80%81%E9%95%BF%E6%98%A5%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94)
   - 
   - [SHOWROOM](https://www.showroom-live.com/onlive) [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5) [乃木坂公式](http://www.nogizaka46.com/smph/) [48pedia](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚实](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html) [AKB索引](http://wiki.akbfun48.com/index.php/AKB48%E7%B4%A2%E5%BC%95#.E4.B9.83.E6.9C.A8.E5.9D.8246.E7.95.AA.E7.BB.84) [46LOVER](https://nogi46p.com/) [日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [docomo](https://ent.smt.docomo.ne.jp/search/%E4%B9%83%E6%9C%A8%E5%9D%82) [cobra](https://space.bilibili.com/297134930/article) [抖音](https://www.douyin.com/user/MS4wLjABAAAAKQXtQgTkKLigr675YK72vS99esKMddLmi3GoB1zOIVHhX4l2z06pp1zcfpyR7RLB?extra_params=%7B%22search_id%22%3A%22202106211828250100150342113301CCF9%22%2C%22search_result_id%22%3A%221767613136638551%22%2C%22search_keyword%22%3A%22%E4%B9%83%E6%9C%A8%E5%9D%82%22%2C%22search_type%22%3A%22video%22%7D&enter_method=search_result&enter_from=search_result)
   - 
-  - [FANZAニュース](https://news.dmm.co.jp/) [エロ賢い](https://www.menscyzo.com/) [いちばんエロいひとへ](https://nice2meetyou2.fc2.xxx/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/) [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking) [clg发布](https://elsbapp.com/)      98t.org   
+  - [FANZAニュース](https://news.dmm.co.jp/) [RANK](https://www.dmm.co.jp/mono/dvd/-/ranking/=/term=week/) [エロ賢い](https://www.menscyzo.com/) [新作情報](https://fujimon01.com/) [いちばんエロいひとへ](https://nice2meetyou2.fc2.xxx/) [fempass](https://fempass.today/)  [日刊SOD](https://news.sod.co.jp/) [風俗部](https://www.fuzoku-move.net/special/) [AV男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking) [clg发布](https://elsbapp.com/)      98t.org   
   - 
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah) [618](https://www.wolai.com/loveuyeah/9C75ALZss229ybc9CUCruH) [什么值得买](https://www.smzdm.com/) [数码值得买](https://post.smzdm.com/fenlei/diannaoshuma/) [Chiphell](https://www.chiphell.com/) [eBay](https://www.ebay.com/)
   - 
@@ -179,6 +179,9 @@
   - [ASCII.jp](https://ascii.jp/)
   - [ガジェット通信GetNews](https://getnews.jp/)
   - [品玩](https://www.pingwest.com/status)
+  - [VICE](https://www.vice.com/ja)
+  - [嘟嘟网](https://twgreatdaily.live/)
+  - [Sporting News](https://www.sportingnews.com/us/soccer)
   - 
   - 
   - 
