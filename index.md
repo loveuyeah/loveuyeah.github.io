@@ -1,6 +1,6 @@
   - [Bing](https://cn.bing.com/) [搜狗](https://wap.sogou.com/) [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast) [Ecosia](https://www.ecosia.org/) [Yandex](https://yandex.com/) [excite](https://websearch.excite.co.jp/) [au](https://search.auone.jp/) [So-net](https://www.so-net.ne.jp/search/web/) [searx](https://searx.fmac.xyz/)
   - 
-  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment) [typetype](https://ming.typetype.me/) [xNote列表](http://www.xnote.cn/note/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) 
+  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment) [typetype](https://ming.typetype.me/)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) 
   - 
   - [微博](https://weibo.com/loveuyeah/home?is_all=1&is_new=1)  [关注视频](https://weibo.com/tv/follow) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/)  [Twuko](https://www.twuko.com/search?q=%E7%AA%81%E5%8F%91&type=live) [搜索](https://www.twuko.com/search?q=1&type=live) [长鼻象1](https://mstdn.jp/web/timelines/home) [长鼻象2](https://best-friends.chat/web/timelines/home) [驴肉](https://go5.dev/web/timelines/public) 
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://news.livedoor.com/)  [aunews](https://portal.auone.jp/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
@@ -8,7 +8,7 @@
   - [直播吧](https://m.zhibo8.cc/index.htm) [集锦](https://m.zhibo8.cc/v2/record.html) [虎扑](https://nba.hupu.com/) [赛程](https://china.nba.com/schedule/#!/7)
   - [Ino](https://www.inoreader.com/web_pages)   [Ino92](https://92.247.181.40/starred)  [Inno](https://www.innoreader.com/) [TheOldReader](https://theoldreader.com/) [feedly](https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fhdblog.me%2Ffeed%2F) [Reabble](https://reabble.cn/app#/) 
   - [搜索哔哩](https://m.bilibili.com/search)   [1376910](https://search.bilibili.com/all?keyword=1376910)  [收藏夹](https://space.bilibili.com/156249/favlist?fid=324530349&ftype=create)  [初中](https://search.bilibili.com/all?keyword=88970283&from_source=web_search) [西瓜](https://www.ixigua.com/home/1812418163900660) 
-  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [我来笔记](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) 
+  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [我来笔记](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [roamedit](https://roamedit.com/edit/index.php?plugin=outline/roam&to=topic/list) [xNote列表](http://www.xnote.cn/note/)
   - [知乎](https://www.zhihu.com/copyright) [搜索](https://zhihu.sogou.com/)  [知乎日报](http://zhihudaily.me/) [收藏夹](https://www.zhihu.com/collections/mine) [悟空问答](https://www.wukong.com/?is_new_connect=0&is_new_user=0) [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
   - [豆瓣搜](https://m.douban.com/search/?query=) [レイ豆瓣](https://m.douban.com/people/loveuyeah//)  [相册](https://m.douban.com/people/loveuyeah/photos)  
   - [分享发现](https://www.v2ex.com/go/share)  [问与答](https://www.v2ex.com/go/qna)   [分享创造](https://www.v2ex.com/go/create)  [JIKE](https://jike.info/) [精品软件区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
@@ -185,7 +185,7 @@
   - [DAREBEE健身](https://darebee.com/)
   - [中国新闻周刊](http://www.inewsweek.cn/)
   - [GameRant](https://gamerant.com/)
-  - 
+  - [FUNQ杂志](https://funq.jp/)
   - 
   - 
   - 
@@ -213,6 +213,7 @@
   - [云集应用](https://www.vm.com/)
   - [Firefox](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [nightly](https://archive.mozilla.org/pub/firefox/nightly/)
   - [Chrome](https://www.google.cn/intl/zh-CN/chrome/) [Chrome](https://www.chromedownloads.net/chrome64win/)
-  - [应用商店](https://app.mi.com/) [App](https://www.guandao.cc/) [绿茶安卓](http://www.33lc.com/android/soft/list_319_1.html)
+  - [应用商店](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶安卓](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html)
   - [Searx instances](https://searx.space/)
+  - 
   - 
