@@ -188,18 +188,17 @@
   - [FUNQ杂志](https://funq.jp/)
   - [AlternativeTo](https://alternativeto.net/)
   - 
-  - 
+  - ==========================
   - 
   - [Raindrop](https://app.raindrop.io/my/0)
-  - [gitlab](https://loveuyeah.gitlab.io/)
+  - [gitlab](https://loveuyeah.gitlab.io/) [edit](https://gitlab.com/loveuyeah/loveuyeah.gitlab.io/-/tree/master)
   - [pazru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [忍者blog管理](https://www.ninja.co.jp/home/)
-  - [Liberapay](https://en.liberapay.com/loveuyeah/) [edit](https://en.liberapay.com/loveuyeah/edit/statement)
   - [typetype](https://ming.typetype.me/) [edit](https://typetype.io/login)
   - [loveuyeah.github.io](https://loveuyeah.github.io/) [Edit](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md)
   - [bookmarks WorkFlowy](https://workflowy.com/s/bookmarks/PJ6fBFkfAQiGtELH)
   - [bookmarks wordpress](https://loveuyeah.wordpress.com/2019/06/18/bookmarks/)
   - [bookmark notion](https://www.notion.so/loveuyeah/bookmark-6e19fbbc64404f97909b8ed4998573c6)
-  - [loveuyeah bloggi](https://loveuyeah.bloggi.co/)
+  - [loveuyeah bloggi](https://loveuyeah.bloggi.co/) [edit](https://bloggi.co/pages/d4a4c9)
   - [Notepin](https://loveuyeah.notepin.co) 
   - [pastebin](https://pastebin.com/) 
   - [Write.as](https://loveuyeah.writeas.com/) [edit](https://write.as/me/c/)
