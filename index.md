@@ -19,7 +19,7 @@
   - 
   - [YahooMail](https://mail.yahoo.com/d/folders/27)   [QQ邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=xyIOMNDR3fIGFSZ4&r=8f621ee4ea7006ff827fafebb5805b60) [88邮箱](https://mail.88.com/mail/#/home) [Outlook](https://outlook.live.com/owa/) [YandexMail](https://mail.yandex.com/lite) [Gmail](https://mail.google.com/mail/u/0/h/qa1mrslveucy/?zy=g&f=1)
   - 
-  - [蓝奏常用](https://ww.lanzoux.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php) [杂货](https://loveuyeah.lanzoux.com/b00oiyymd) [天翼云盘](https://cloud.189.cn/main.action#home) [天翼云家庭](https://h5.cloud.189.cn/main.html#/family) [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html) [阿里云盘](https://www.aliyundrive.com/sign/in) [Teambition](https://www.teambition.com/todo) [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接](http://pan-yz.chaoxing.com/) [onedrive](https://login.microsoftonline.com/) [百度网盘](https://pan.baidu.com/disk/home#/all?path=%2F&vmode=list) 
+  - [蓝奏常用](https://ww.lanzoux.com/b00nfy6cb)   [蓝奏云](https://pc.woozooo.com/mydisk.php) [杂货](https://loveuyeah.lanzoux.com/b00oiyymd) [天翼云盘](https://cloud.189.cn/main.action#home) [天翼云家庭](https://h5.cloud.189.cn/main.html#/family) [职教云](https://zjy2.icve.com.cn/teacher/ecmDoc/ecmDoc.html) [阿里云盘](https://www.aliyundrive.com/sign/in) [Teambition](https://www.teambition.com/todo) [超星云盘](http://i.mooc.chaoxing.com/loginLog/list?t=1576198948306) [超星直接](http://pan-yz.chaoxing.com/) [onedrive](https://login.microsoftonline.com/) [百度网盘](https://pan.baidu.com/disk/home#/all?path=%2F&vmode=list) [檔案/e/](https://ecloud.global/apps/files/?dir=/&fileid=48278070)
   - [139邮箱](https://appmail.mail.10086.cn/m2015/html/index.html?sid=00U2MTM1MjU1MjAwMDcyMzg502D704E0000004&rnd=518&tab=mailbox_1&comefrom=54&v=25&k=1825&cguid=1302000417404&mtime=22&h=3) [亿方云](https://v2.fangcloud.com/apps/files/desktop/files/own)  [曲奇云](https://quqi.com/2739591/0) [Amazon](https://www.amazon.com/clouddrive/ref=nav_youraccount_clddrv?_encoding=UTF8&mgh=1&ref_=nav_youraccount_clddrv) [TeraCLOUD](https://nanao.teracloud.jp/browser/) [dav](https://nanao.teracloud.jp/dav/) [s-ul](https://s-ul.eu/files) [坚果云](https://www.jianguoyun.com/d/home#/) [小米云](https://i.mi.com/#/) 
   - [小鹿快传](https://deershare.com/send) [小麦云链](https://ftpod.cn/#/) [Wormhole](https://wormhole.app/) [NetPan](https://www.netpan.cn/) [飞鸟快传](https://fnkc.net/) 
   - 
@@ -83,7 +83,7 @@
   - [ubereat](https://www.ubereats.com/jp/city/tokyo-tokyo) [foodpandahk](https://www.foodpanda.hk/zh/city/hong-kong) [foodpandajp](https://www.foodpanda.co.jp/city/yokohama) [foodpandatw](https://www.foodpanda.com.tw/city/taipei-city) [宅面](https://www.takumen.com/) [Mc](https://www.mcdonalds.co.jp/) [kfc](https://www.kfc.co.jp/) [Starbucks](https://www.starbucks.co.jp/) [出前館](https://demae-can.com/)
   - [mynavi娱乐](https://news.mynavi.jp/top/entertainment/entertainment/)
   - [アニメ総研](https://akiba-souken.com/anime/ranking/)
-  - [知恵袋](https://chiebukuro.yahoo.co.jp/category/2078297371/question/list?flg=1)
+  -  [知恵袋](https://chiebukuro.yahoo.co.jp/) [知恵袋](https://chiebukuro.yahoo.co.jp/category/2078297371/question/list?flg=1)
   - [SankakuChannel](https://chan.sankakucomplex.com/)
   - [東京風俗](https://fujoho.jp/index.php?p=shop_list&t=13)
   - [So-net](https://www.so-net.ne.jp/m/)  
@@ -177,7 +177,6 @@
   - [品玩](https://www.pingwest.com/status)
   - [VICE](https://www.vice.com/ja)
   - [嘟嘟网](https://twgreatdaily.live/)
-  - [哆啦A梦的神奇口袋](http://baozangku.ys168.com/?utm_source=xinquji)
   - [東スポＷeb](https://www.tokyo-sports.co.jp/)
   - [Interactive Fine Art Gallery & Museum USEUM](https://useum.org/) [Louvre site des collections](https://collections.louvre.fr/en/albums) [上海博物馆](https://www.shanghaimuseum.net/mu/frontend/pg/index#section2)
   - [展望一個更美好的台灣](https://taiwan.chtsai.org/)
@@ -187,6 +186,12 @@
   - [GameRant](https://gamerant.com/)
   - [FUNQ杂志](https://funq.jp/)
   - [野球の総合メディア ―](https://full-count.jp/category/highschool/)
+  - [SportsNavi](https://sports.yahoo.co.jp/)
+  - [Volupedia](http://en.volupedia.org/wiki/Main_Page)
+  - 
+  - 
+  - 
+  - 
   - 
   - ==========================
   - 
@@ -211,7 +216,7 @@
   - [云集应用](https://www.vm.com/)
   - [Firefox](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [nightly](https://archive.mozilla.org/pub/firefox/nightly/)
   - [Chrome](https://www.google.cn/intl/zh-CN/chrome/) [Chrome](https://www.chromedownloads.net/chrome64win/)
-  - [小米](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html) [极光](http://m.xz7.com/app.html) [cafe](https://apk.cafe/) [кафе](https://apkcafe.ru/)
+  - [小米](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html) [极光](http://m.xz7.com/app.html) [cafe](https://apk.cafe/) [кафе](https://apkcafe.ru/) [RawAPK](https://rawapk.com/)
   - [Searx instances](https://searx.space/)
   - 
   - 
@@ -246,5 +251,6 @@
   - [井頭愛海](https://insta.jaeger.website/u/manamiigashira_official)
   - [吉村卓](https://insta.jaeger.website/u/taku8687)
   - [S1](https://insta.jaeger.website/u/s1_official_jav)
+  - 
   - 
   - 
