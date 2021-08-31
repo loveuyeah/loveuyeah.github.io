@@ -6,9 +6,9 @@
   - [直播吧](https://m.zhibo8.cc/index.htm) [集锦](https://m.zhibo8.cc/v2/record.html) [虎扑](https://nba.hupu.com/) [赛程](https://china.nba.com/schedule/#!/7)
   - [Ino](https://www.inoreader.com/web_pages)   [Ino92](https://92.247.181.40/starred)  [Inno](https://www.innoreader.com/) [TheOldReader](https://theoldreader.com/) [feedly](https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fhdblog.me%2Ffeed%2F) [Reabble](https://reabble.cn/app#/) 
   - [搜索哔哩](https://m.bilibili.com/search)   [1376910](https://search.bilibili.com/all?keyword=1376910)  [收藏夹](https://space.bilibili.com/156249/favlist?fid=324530349&ftype=create)  [初中](https://search.bilibili.com/all?keyword=88970283&from_source=web_search) [西瓜](https://www.ixigua.com/home/1812418163900660) [优酷](https://www.youku.com/profile/index?spm=a2h0z.8244218.uerCenter.5!5~5~5~5~5~1~3!3~A)
-  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [我来笔记](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [roamedit](https://roamedit.com/edit/index.php?plugin=outline/roam&to=topic/list) [xNote列表](http://www.xnote.cn/note/) [many.link](https://many.link/loveuyeah)
-  - [知乎](https://www.zhihu.com/copyright) [搜索](https://zhihu.sogou.com/)  [知乎日报](http://zhihudaily.me/) [收藏夹](https://www.zhihu.com/collections/mine) [悟空](https://www.wukong.com/?is_new_connect=0&is_new_user=0) 
-  - [豆瓣搜](https://m.douban.com/search/?query=) [レイ豆瓣](https://m.douban.com/people/loveuyeah//)  [相册](https://m.douban.com/people/loveuyeah/photos)  [Bangumi](http://bgm.tv/subject_search) [Rank](https://bangumi.tv/anime/browser?sort=rank)
+  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [wolai](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [roamedit](https://roamedit.com/edit/index.php?plugin=outline/roam&to=topic/list) [xNote](http://www.xnote.cn/note/) [many.link](https://many.link/loveuyeah)
+  - [知乎](https://www.zhihu.com/copyright) [搜索](https://zhihu.sogou.com/)  [知乎日报](http://zhihudaily.me/) [收藏夹](https://www.zhihu.com/collections/mine) 
+  - [豆瓣](https://m.douban.com/search/?query=) [レイ豆瓣](https://m.douban.com/people/loveuyeah//)  [相册](https://m.douban.com/people/loveuyeah/photos)  [Bangumi](http://bgm.tv/subject_search) [Rank](https://bangumi.tv/anime/browser?sort=rank)
   - [分享发现](https://www.v2ex.com/go/share)  [问与答](https://www.v2ex.com/go/qna)   [分享创造](https://www.v2ex.com/go/create)  [JIKE](https://jike.info/) [精品区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
   - [今日热榜](https://tophub.today) [今日热榜](https://www.re-bang.com/)  [AnyKnew](https://www.anyknew.com/#/)  [抽屉榜](https://m.chouti.com/all/hot) [拓扑排行](https://the.top/frame/list/8) [多摸鱼](https://duomoyu.com/) [MAKE](https://make.mk/) [Miku聚合](https://tools.miku.ac/news/)
   - [第一财经](https://www.yicai.com/) [ZAKER](http://www.myzaker.com/channel/5) [澎湃新闻](https://www.thepaper.cn/) [每经网](http://www.nbd.com.cn/) 
@@ -29,7 +29,6 @@
   - [Collins](https://www.collinsdictionary.com/) [Jisho](https://jisho.org/)  [DeepL](https://www.deepl.com/translator) [Google翻訳](https://translate.google.cn/) [Linguee](https://www.linguee.com/) [広辞苑](https://sakura-paris.org/dict/) [JLect](https://www.jlect.com/) [云朵](https://fanyi.caiyunapp.com/#/)
   - [Twitter](https://twitter.com/home)   [Twitterlist](https://twitter.com/i/lists/1221611432099270656) [YouTube](https://www.youtube.com/feed/subscriptions/) [YouTube账户](https://www.youtube.com/user/loveuyeah2007/channels?view_as=subscriber) [Instagram](https://www.instagram.com/) [Twuko](https://www.twuko.com/search?q=%E7%AA%81%E5%8F%91&type=live) [Twuko搜索](https://www.twuko.com/search?q=1&type=live) 
   - =========================
-  - otaku_read_ent_sox_life_tools
   - otaku
     - [巧克力直播网](http://www.qklnews.com/) [jrkan發佈頁](http://qiumi1314.com/) [优酷体育](https://sports.youku.com/?spm=a2ha1.14919748_TIYU_SEC00SPORTS00SNOOKER.header-logo-wrap.A!2) [天下足球网](http://www.txzqw.me/thread-htm-fid-28.html) [Football download](https://www.sport-video.org.ua/soccer.html) [猎趣直播](http://www.liequlive.com/) [绝地求生](https://m.douyu.com/list/room?type=jdqs) [699689](https://www.douyu.com/699689) [3168536](https://www.douyu.com/3168536) [62851](https://www.douyu.com/62851) [斗鱼关注](https://www.douyu.com/directory/myFollow) 
     - [AGE动漫](https://www.agefans.tv/update) [爱看番](http://www.ikanfan.com/) [233](https://www.dm233.tv/) [ZzzFun](http://www.zzzfun.com/) [手机看片](http://www.wodedy.net/) [央视网](https://m.cctv.com/quanzhannav2019/index.shtml?spm=0.P9W2sV3NqCTC.0.0) [看看1](http://live.kankanews.com/huikan/) [看看2](http://live.kankanews.com/)
@@ -106,7 +105,8 @@
     - [数字尾巴](https://www.dgtle.com/)
     - [Chiphell](https://www.chiphell.com/) 
     - [eBay](https://www.ebay.com/)
-  - ent.
+    - [悟空](https://www.wukong.com/?is_new_connect=0&is_new_user=0) 
+  - ent
     - [SHOWROOM](https://www.showroom-live.com/onlive) 
     - [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5)
     - [MANTANWEB](https://mantan-web.jp/)
@@ -199,12 +199,7 @@
     - [在线工具](https://tool.lu/) 
     - [脚本工具](http://tools.jb51.net/) 
     - [MikuTools](https://tools.miku.ac/) 
-  - 
-  - 
-  - 
-  - 
   - ======================
-  - 
   - [Raindrop](https://app.raindrop.io/my/0)
   - [gitlab](https://loveuyeah.gitlab.io/) [edit](https://gitlab.com/loveuyeah/loveuyeah.gitlab.io/-/tree/master)
   - [pazru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [edit](https://www.ninja.co.jp/home/)
@@ -235,10 +230,7 @@
   - [Chrome](https://www.google.cn/intl/zh-CN/chrome/) [Chrome](https://www.chromedownloads.net/chrome64win/)
   - [小米](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html) [极光](http://m.xz7.com/app.html) [cafe](https://apk.cafe/) [кафе](https://apkcafe.ru/) [RawAPK](https://rawapk.com/)
   - [Searx instances](https://searx.space/)
-  - 
-  - 
   - =======================
-  - 
   - [土屋太鳳](https://insta.jaeger.website/u/taotsuchiya_official)
   - [高校野球](https://insta.jaeger.website/u/virtual_kokoyakyu)
   - [三上悠亜](https://insta.jaeger.website/u/yua_mikami)
@@ -268,5 +260,4 @@
   - [井頭愛海](https://insta.jaeger.website/u/manamiigashira_official)
   - [吉村卓](https://insta.jaeger.website/u/taku8687)
   - [S1](https://insta.jaeger.website/u/s1_official_jav)
-  - 
   - 
