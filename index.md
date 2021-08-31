@@ -1,5 +1,5 @@
   - [Bing](https://cn.bing.com/) [搜狗](https://wap.sogou.com/) [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast) [Ecosia](https://www.ecosia.org/) [Yandex](https://yandex.com/) [excite](https://websearch.excite.co.jp/) [au](https://search.auone.jp/) [So-net](https://www.so-net.ne.jp/search/web/) [searx](https://searx.fmac.xyz/)
-  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment) [Collected](https://collectednotes.com/loveuyeah)   [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) 
+  - [pazru](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [临时1](http://jishiben.me/ming)  [临时2](https://netcut.cn/yjm) [临时3](https://note.ms/yjm) [mingnote](https://rentry.co/mingnote/edit)
   - [微博](https://weibo.com/loveuyeah/home?is_all=1&is_new=1)  [关注视频](https://weibo.com/tv/follow) [微博视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我微博](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/)  [Twuko](https://www.twuko.com/search?q=%E7%AA%81%E5%8F%91&type=live) [搜索](https://www.twuko.com/search?q=1&type=live) [长鼻象1](https://mstdn.jp/web/timelines/home) [长鼻象2](https://best-friends.chat/web/timelines/home) [驴肉](https://go5.dev/web/timelines/public) 
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://www.livedoor.com/lite/)  [aunews](https://portal.auone.jp/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
   - [IT之家](https://m.ithome.com/) [滚动](https://www.ithome.com/list/)
@@ -264,4 +264,6 @@
   - [井頭愛海](https://insta.jaeger.website/u/manamiigashira_official)
   - [吉村卓](https://insta.jaeger.website/u/taku8687)
   - [S1](https://insta.jaeger.website/u/s1_official_jav)
+  - 
+  - 
   - 
