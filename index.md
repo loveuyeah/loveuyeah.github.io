@@ -205,7 +205,8 @@
   - 
   - [Raindrop](https://app.raindrop.io/my/0)
   - [gitlab](https://loveuyeah.gitlab.io/) [edit](https://gitlab.com/loveuyeah/loveuyeah.gitlab.io/-/tree/master)
-  - [pazru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [忍者blog管理](https://www.ninja.co.jp/home/)
+  - [pazru](http://ming.pazru.com/) [kuizu](http://loveuyeah.kuizu.net/) [edit](https://www.ninja.co.jp/home/)
+  - [rentry](https://rentry.co/ming/)
   - [typetype](https://ming.typetype.me/) [edit](https://typetype.io/login)
   - [loveuyeah.github.io](https://loveuyeah.github.io/) [Edit](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md)
   - [WorkFlowy](https://workflowy.com/s/bookmarks/PJ6fBFkfAQiGtELH)
@@ -222,6 +223,8 @@
   - [Linktree](https://linktr.ee/loveuyeah) [edit](https://linktr.ee/admin)
   - [Taplink](https://taplink.cc/loveuyeah) [edit](https://taplink.at/en/profile/5139686/pages/)
   - [AllMyLinks](https://allmylinks.com/loveuyeah) [edit](https://allmylinks.com/feed) 
+  - [many.link](https://many.link/loveuyeah) [edit](https://many.link/links)
+  - [snippet.host](https://snippet.host/snippets) [B站](https://snippet.host/ssov) [教职云](https://snippet.host/ezsr) [豆瓣](https://snippet.host/gnda) 
   - [Ghostbin](https://ghostbin.com/paste/gtqBJ)
   - [云集应用](https://www.vm.com/)
   - [Firefox](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [nightly](https://archive.mozilla.org/pub/firefox/nightly/)
