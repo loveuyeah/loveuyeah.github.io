@@ -108,6 +108,7 @@
     - [朝日新聞](https://www.asahi.com/?iref=pc_gnavi)
     - [NHK NEWS](https://www3.nhk.or.jp/news/catnew.html?utm_int=all_header_menu_news-new) [頭條新聞](https://www3.nhk.or.jp/nhkworld/zt/news/)
     - [澎湃](https://www.thepaper.cn/) 
+    - [Simcast](https://simcast.com/)
   - ent
     - [SHOWROOM](https://www.showroom-live.com/onlive) 
     - [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5)
@@ -146,6 +147,7 @@
     - [ESPN](https://global.espn.com/)
     - [SportsNavi](https://sports.yahoo.co.jp/)
     - [soccerking](https://www.soccer-king.jp/news/world?cx_top=head)
+    - [PopnRoll](https://popnroll.tv/articles)
   - sox
     - [東京風俗](https://fujoho.jp/index.php?p=shop_list&t=13)
     - [エロ漫画](https://shikotch.net/)
@@ -187,7 +189,7 @@
     - [BoKU簡単飯](https://www.bokuno.work/) 
     - [VOGUE GIRL](https://voguegirl.jp/)
     - [enjoytokyo](https://www.enjoytokyo.jp/style/list/)
-    - [東京Airbnb](https://ja.airbnb.com/s/tokyo/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=july&flexible_trip_dates%5B%5D=june&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&disable_auto_translation=false&source=structured_search_input_header&search_type=search_query) [Booking](https://www.booking.com/)
+    - [東京Airbnb](https://ja.airbnb.com/s/tokyo/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=july&flexible_trip_dates%5B%5D=june&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&disable_auto_translation=false&source=structured_search_input_header&search_type=search_query) [Booking](https://www.booking.com/) [马蜂窝](http://www.mafengwo.cn/search/q.php?q=%E4%B8%9C%E4%BA%AC&t=&seid=392369D5-FD74-4F49-98C7-4C2C5E695F70&mxid=&mid=&mname=&kt=1) [Yelp](https://www.yelp.com/%E6%9D%B1%E4%BA%AC)
     - [WIRED.jp](https://wired.jp/)
     - [FUNQ杂志](https://funq.jp/)
     - [Tarzan](https://tarzanweb.jp/articles/)
