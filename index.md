@@ -6,7 +6,7 @@
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://www.livedoor.com/lite/)  [aunews](https://portal.auone.jp/)  [Excite](https://www.excite.co.jp/)  [docomo](https://ent.smt.docomo.ne.jp/)
   - [Ino](https://www.inoreader.com/web_pages)   [Ino92](https://92.247.181.40/starred)  [Inno](https://www.innoreader.com/) [TheOldReader](https://theoldreader.com/) [feedly](https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fhdblog.me%2Ffeed%2F) [Reabble](https://reabble.cn/app#/) 
   - [搜索哔哩](https://m.bilibili.com/search)   [1376910](https://search.bilibili.com/all?keyword=1376910)  [收藏夹](https://space.bilibili.com/156249/favlist?fid=324530349&ftype=create)  [初中](https://search.bilibili.com/all?keyword=88970283&from_source=web_search) [西瓜](https://www.ixigua.com/home/1812418163900660) [优酷](https://www.youku.com/profile/index?spm=a2h0z.8244218.uerCenter.5!5~5~5~5~5~1~3!3~A)
-  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [wolai](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [roamedit](https://roamedit.com/edit/index.php?plugin=outline/roam&to=topic/list) [xNote](http://www.xnote.cn/note/) [many.link](https://many.link/loveuyeah) [digitalpress](https://loveuyeah.digitalpress.blog/)
+  - [Dynalist](https://dynalist.io/d/vIpMvOhm7ap23afXxbrke-0R) [WorkFlowy](https://workflowy.com/#/7785ceef6593)  [wolai](https://www.wolai.com/loveuyeah/cY62wJiWHqaskgRE9Cerjs) [roamedit](https://roamedit.com/edit/index.php?plugin=outline/roam&to=topic/list) [xNote](http://www.xnote.cn/note/） [wordpress](https://loveuyeah.wordpress.com/) [digitalpress](https://loveuyeah.digitalpress.blog/)
   - [知乎](https://www.zhihu.com/copyright) [搜索](https://zhihu.sogou.com/)  [知乎日报](http://zhihudaily.me/) [收藏夹](https://www.zhihu.com/collections/mine) 
   - [豆瓣](https://m.douban.com/search/?query=) [レイ豆瓣](https://m.douban.com/people/loveuyeah//)  [相册](https://m.douban.com/people/loveuyeah/photos)  [Bangumi](http://bgm.tv/subject_search) [Rank](https://bangumi.tv/anime/browser?sort=rank)
   - [分享发现](https://www.v2ex.com/go/share)  [问与答](https://www.v2ex.com/go/qna)   [分享创造](https://www.v2ex.com/go/create)  [JIKE](https://jike.info/) [精品区](https://www.52pojie.cn/forum-16-1.html)  [福利经验](https://www.52pojie.cn/forum-66-1.html)
@@ -184,6 +184,7 @@
     - [cookpad](https://cookpad.com/)
     - [白ごはん](https://www.sirogohan.com/)
     - [World Food Atlas](https://www.tasteatlas.com/)
+    - [下厨房](https://www.xiachufang.com/)
   - tools
     - [Chrome插件](http://chromecj.com/)
     - [TopWallpapers](https://wallhaven.cc/toplist) [wallroom](https://wallroom.io/) [CoolBackgrounds](https://coolbackgrounds.io/black-background/)
@@ -209,7 +210,7 @@
   - [typetype](https://ming.typetype.me/) [edit](https://typetype.io/login)
   - [loveuyeah.github.io](https://loveuyeah.github.io/) [Edit](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md)
   - [WorkFlowy](https://workflowy.com/s/bookmarks/PJ6fBFkfAQiGtELH)
-  - [wordpress](https://loveuyeah.wordpress.com/2019/06/18/bookmarks/)
+  - [wordpress](https://loveuyeah.wordpress.com/) [edit](https://wordpress.com/posts/loveuyeah.wordpress.com)
   - [notion](https://www.notion.so/loveuyeah/bookmark-6e19fbbc64404f97909b8ed4998573c6)
   - [bloggi](https://loveuyeah.bloggi.co/) [edit](https://bloggi.co/pages/d4a4c9)
   - [Notepin](https://loveuyeah.notepin.co) 
@@ -263,4 +264,5 @@
   - [井頭愛海](https://insta.jaeger.website/u/manamiigashira_official)
   - [吉村卓](https://insta.jaeger.website/u/taku8687)
   - [S1](https://insta.jaeger.website/u/s1_official_jav)
+  - [吉田莉桜](https://insta.jaeger.website/u/yoshida_rio_official)
   - 
