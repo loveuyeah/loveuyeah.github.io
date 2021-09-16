@@ -61,6 +61,10 @@
     - [drrr](https://drrr.com/)
     - [单机](https://bbs.3dmgame.com/game0day)
     - [sbkk看图猜电影](https://www.sbkk.me/)
+    - [3DM新闻](https://www.3dmgame.com/news/)
+    - [萌娘百科](https://zh.moegirl.org.cn/index.php?search=&title=Special%3A%E6%90%9C%E7%B4%A2&go=%E5%89%8D%E5%BE%80)
+    - [BOOK☆WALKER](https://bookwalker.jp/search/?order=rank&qcat=4&qpri=1&np=1) [写真集](https://bookwalker.jp/photography/)
+    - [Gameover HK](https://www.gameover.com.hk/)
   - read
     - [医学微视](https://www.mvyxws.com/) [默克诊疗手册](https://www.msdmanuals.cn/home) [就诊问问](https://ask.nocode.com/)
     - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
@@ -232,7 +236,7 @@
   - [云集应用](https://www.vm.com/)
   - [Firefox](https://www.mozilla.org/ja/firefox/channel/desktop/#nightly) [nightly](https://archive.mozilla.org/pub/firefox/nightly/)
   - [Chrome](https://www.google.cn/intl/zh-CN/chrome/) [Chrome](https://www.chromedownloads.net/chrome64win/)
-  - [小米](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html) [极光](http://m.xz7.com/app.html) [cafe](https://apk.cafe/) [кафе](https://apkcafe.ru/) [RawAPK](https://rawapk.com/)
+  - [小米](https://app.mi.com/) [观道](https://www.guandao.cc/) [绿茶](http://www.33lc.com/android/soft/list_319_1.html) [历趣](https://www.liqucn.com/rj/) [vivo](http://h5.appstore.vivo.com.cn/#/) [应用汇](http://www.appchina.com/soft) [安智](http://www.anzhi.com/applist.html) [极光](http://m.xz7.com/app.html) [cafe](https://apk.cafe/) [кафе](https://apkcafe.ru/) [RawAPK](https://rawapk.com/) [3DM](https://shouyou.3dmgame.com/android/2_1_1/)
   - [Searx instances](https://searx.space/)
   - =======================
   - [土屋太鳳](https://insta.jaeger.website/u/taotsuchiya_official)
