@@ -19,7 +19,7 @@
   - [尼康](https://nis.nikonimagespace.com/html/myphoto/) [PlayMemories](https://playmemoriesonline.com/all)  [QQ空间](https://user.qzone.qq.com/858775781/main?_t_=0.46919927901224634) [笑果](https://imagelol.com/loveuyeah) [即刻](https://img.gksec.com/) [Lofter](https://loveuyeah.lofter.com/) [Postimages](https://postimg.cc/gallery/WPyX9Xp) [ImgBB](https://loveuyeah.imgbb.com/albums) [Patreon](https://www.patreon.com/loveuyeah) [Pasteboard](https://pasteboard.co/) [图片上传](https://sxotu.com/)
   - [天气](https://www.baidu.com/s?wd=%E9%95%BF%E6%98%A5%E5%A4%A9%E6%B0%94&rsv_spt=1&rsv_iqid=0xf5c724c80001bddf&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_sug3=7&rsv_enter=1&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&inputT=4230&rsv_sug4=5257)   [天气](http://www.weather.com.cn/weather/101060101.shtml)    [天气](https://tianqi.moji.com/weather/china/jilin/changchun) [微软天气](https://www.msn.cn/zh-cn/weather/?weadegreetype=C&el=rbyAMZPX3QwE%2Fv3qv9J02O%2Fe8wpgkO%2FqH3MAB0SC%2B5msffiB7aAxxU%2FW2HQOH0ObLaegU0IxpNwgYgZ1VRgUO0cMv%2FlybTwppLS%2FobzpXJs%3D&ocid=msedgntp) [云图](https://zoom.earth/#view=44.066,125.401,7z/) [Spark](https://zh.weatherspark.com/y/141801/%E4%B8%AD%E5%9B%BD%E3%80%81%E9%95%BF%E6%98%A5%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94)
   - [乃木坂](http://www.nogizaka46.com/smph/) [48pedia](https://48pedia.org/%E4%B9%83%E6%9C%A8%E5%9D%8246) [虚实](https://tieba.baidu.com/f?ie=utf-8&kw=%E8%99%9A%E7%BA%A2%E5%AE%9E%E7%BB%BF) [oricon](https://tieba.baidu.com/f?ie=utf-8&kw=oricon) [情報](https://news.biglobe.ne.jp/list/010/675/%E4%B9%83%E6%9C%A8%E5%9D%8246.html)  [46LOVER](https://nogi46p.com/) [日刊](https://www.nikkansports.com/entertainment/nogizaka46/news/) [docomo](https://ent.smt.docomo.ne.jp/search/%E4%B9%83%E6%9C%A8%E5%9D%82) [cobra](https://space.bilibili.com/297134930/article) [抖音](https://www.douyin.com/user/MS4wLjABAAAAKQXtQgTkKLigr675YK72vS99esKMddLmi3GoB1zOIVHhX4l2z06pp1zcfpyR7RLB?extra_params=%7B%22search_id%22%3A%22202106211828250100150342113301CCF9%22%2C%22search_result_id%22%3A%221767613136638551%22%2C%22search_keyword%22%3A%22%E4%B9%83%E6%9C%A8%E5%9D%82%22%2C%22search_type%22%3A%22video%22%7D&enter_method=search_result&enter_from=search_result)
-  - [FANZA](https://news.dmm.co.jp/) [RANK](https://www.dmm.co.jp/mono/dvd/-/ranking/=/term=week/) [男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking)  98t.org [彩花twi](https://www.twuko.com/search?q=%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1&type=live)
+  - [FANZA](https://news.dmm.co.jp/) [RANK](https://www.dmm.co.jp/mono/dvd/-/ranking/=/term=week/) [男優まとめ](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking)  98t.org [彩花twi](https://www.twuko.com/search?q=%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1&type=live) [AV速報](https://avnewsflash.com/)
   - [京东搜索](https://search.jd.com/)   [京东关注](http://t.jd.com/follow/product)  [慢慢买](http://www.manmanbuy.com/)   [天猫天猫](https://www.tmall.com/)   [淘宝搜索](https://s.taobao.com/search?q=loveuyeah) [618](https://www.wolai.com/loveuyeah/9C75ALZss229ybc9CUCruH) [什么值得买](https://www.smzdm.com/) [数码值得买](https://post.smzdm.com/fenlei/diannaoshuma/) 
   - [网易云](https://music.163.com/#/playlist?id=3778087) [YesPlayMusic](https://music.qier222.com/#/) [哔哩音乐](https://www.bilibili.com/audio/am28440788) [豆瓣FM](https://fm.douban.com/#/channel/17)
   - [洛奇](https://luoqi.tiancity.com/homepage/v3/index.html)  [EpicStore](https://www.epicgames.com/store/ja/free-games) [SNOOKER](http://www.heyzxz.me/pcol/) 
@@ -218,6 +218,7 @@
   - [loveuyeah.github.io](https://loveuyeah.github.io/) [Edit](https://github.com/loveuyeah/loveuyeah.github.io/edit/master/index.md)
   - [WorkFlowy](https://workflowy.com/s/bookmarks/PJ6fBFkfAQiGtELH)
   - [wordpress](https://loveuyeah.wordpress.com/) [edit](https://wordpress.com/posts/loveuyeah.wordpress.com)
+  - [vivaldi](https://loveuyeah.vivaldi.net/) [edit](https://loveuyeah.vivaldi.net/wp-admin/post.php?post=2&action=edit)
   - [notion](https://www.notion.so/loveuyeah/bookmark-6e19fbbc64404f97909b8ed4998573c6)
   - [bloggi](https://loveuyeah.bloggi.co/) [edit](https://bloggi.co/pages/d4a4c9)
   - [Notepin](https://loveuyeah.notepin.co) 
@@ -274,4 +275,5 @@
   - [吉田莉桜](https://insta.jaeger.website/u/yoshida_rio_official)
   - [白石まゆみ](https://insta.jaeger.website/u/mayumi.1227)
   - [志田音々](https://insta.jaeger.website/u/shida_nene0715)
+  - [木村拓哉](https://insta.jaeger.website/u/takuya.kimura_tak)
   - 
