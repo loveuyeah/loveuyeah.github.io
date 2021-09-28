@@ -276,4 +276,61 @@
   - [白石まゆみ](https://insta.jaeger.website/u/mayumi.1227)
   - [志田音々](https://insta.jaeger.website/u/shida_nene0715)
   - [木村拓哉](https://insta.jaeger.website/u/takuya.kimura_tak)
+  - [大原優乃](https://insta.jaeger.website/u/yuno_ohara)
+  - 
+  - --------------------------
+  - twitter
+    - https://nitter.exonip.de/bunshun_online      文春
+    - https://nitter.exonip.de/shira_mayu1227      白石まゆみ
+    - https://nitter.exonip.de/paopaoPap            光文社FLASH
+    - https://nitter.exonip.de/lvv2com             Lvv2.com
+    - https://nitter.exonip.de/daikikato072         AV監督さもあり
+    - https://nitter.exonip.de/nenemaru0715          志田音々
+    - https://nitter.exonip.de/aoi_tsukasa8          葵つかさ
+    - https://nitter.exonip.de/Saika_Kawakita            河北彩花
+    - https://nitter.exonip.de/idol_bomb   BOMB編集部
+    - https://nitter.exonip.de/miss_maga_zine        ミスマガジン
+    - https://nitter.exonip.de/honjosuzu      本庄鈴
+    - https://nitter.exonip.de/PRESTIGE_PR2020       プレステージ 広報宣伝部
+    - https://nitter.exonip.de/moekawase       川瀬もえ
+    - https://nitter.exonip.de/nogi46bunno1     乃木坂46まとめ 1/46
+    - https://nitter.exonip.de/nogizaka46         乃木坂
+    - https://nitter.exonip.de/nanase_andstaff       西野七濑
+    - https://nitter.exonip.de/caixin_news          财新周刊
+    - https://nitter.exonip.de/2chavcom    AV女優2chまとめ
+    - https://nitter.exonip.de/MGS_info       MGS動画【公式】プレステージグループ
+    - https://nitter.exonip.de/umi_sea_0v0      八掛うみ
+    - https://nitter.exonip.de/pre_eigyo1 PRESTIGE営業部
+    - https://nitter.exonip.de/monamisuzu_life    もなみ鈴@ぺたんこAV
+    - https://nitter.exonip.de/natuki_takeuchi    竹内夏希
+    - https://nitter.exonip.de/Asuka_Kawazu_      川津
+    - https://nitter.exonip.de/ChineseWSJ      华尔街中文
+    - https://nitter.exonip.de/kamianna_     加美杏奈
+    - https://nitter.exonip.de/wangzhian8848    王局
+    - https://nitter.exonip.de/fangshimin   肘子
+    - https://nitter.exonip.de/ABCChinese           abc
+    - https://nitter.exonip.de/FALENO_official         FALENO
+    - https://nitter.exonip.de/mranti     安替
+    - https://nitter.exonip.de/hikari_ninoheee      二宫光
+    - https://nitter.exonip.de/shiraishi_sei         白石聖
+    - https://nitter.exonip.de/remu19971203     涼森れむ
+    - https://nitter.exonip.de/MINAMI373HAMABE     美波
+    - https://nitter.exonip.de/KarenKaede_     楓カレン
+    - https://nitter.exonip.de/kano_yura    架乃ゆら
+    - https://nitter.exonip.de/amatsuka_moe       天使萌
+    - https://nitter.exonip.de/kouhou_korin   【エスワン】広報
+    - https://nitter.exonip.de/Yuno__official    大原優乃
+    - https://nitter.exonip.de/tadai_mahiro      唯井
+    - https://nitter.exonip.de/Arinahashimoto1   橋本ありな
+    - https://nitter.exonip.de/yumekana1993212   由愛可奈本人
+    - https://nitter.exonip.de/dw_chinese      德国之声
+    - https://nitter.exonip.de/toda_makoto        戸田真琴staff
+    - https://nitter.exonip.de/enako_cos       えなこ 
+    - https://nitter.exonip.de/yua_mikami      三上悠亜
+    - https://nitter.exonip.de/nytchinese  纽约时报中文网官方推特
+    - https://nitter.exonip.de/CDTChinese   数字时代
+    - https://nitter.exonip.de/BBCBreaking      bbc
+    - https://nitter.exonip.de/S1_No1_Style     エスワン【公式】
+    - https://nitter.exonip.de/VOAChinese          voa
+
   - 
