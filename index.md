@@ -1,5 +1,5 @@
   - [Bing](https://cn.bing.com/) [搜狗](https://wap.sogou.com/) [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast) [Ecosia](https://www.ecosia.org/) [Yandex](https://yandex.com/) [excite](https://websearch.excite.co.jp/) [au](https://search.auone.jp/) [So-net](https://www.so-net.ne.jp/search/web/) [searx](https://searx.fmac.xyz/)
-  - [paz](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [临时1](http://jishiben.me/ming) [ming](https://rentry.co/mingnote/edit) [分享](https://rentry.co/yjm/edit)
+  - [paz](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [临时1](http://jishiben.me/ming) [ming](https://rentry.co/mingnote/edit) [分享](https://rentry.co/yjm/edit) [jsb](http://jishiben.cc/show_update.asp?link_id=31485)
   - [微博](https://weibo.com/loveuyeah/home?is_all=1&is_new=1)  [关注视频](https://weibo.com/tv/follow) [视频](https://weibo.com/p/1005051232668973/photos?type=video)   [搜我](https://m.weibo.cn/p/2304131232668973_-_WEIBO_SECOND_PROFILE_WEIBO) [简版](https://weibo.cn/)  [Twuko](https://www.twuko.com/search?q=%E7%AA%81%E5%8F%91&type=live) [搜索](https://www.twuko.com/search?q=1&type=live) [象1](https://mstdn.jp/web/timelines/home) [象2](https://best-friends.chat/web/timelines/home) [驴肉](https://go5.dev/web/timelines/public) 
   - [直播吧](https://m.zhibo8.cc/index.htm) [集锦](https://m.zhibo8.cc/v2/record.html) [虎扑](https://nba.hupu.com/) [赛程](https://china.nba.com/schedule/#!/7) 
   - [IT之家](https://m.ithome.com/) [滚动](https://www.ithome.com/list/) [第一财经](https://www.yicai.com/) [ZAKER](http://www.myzaker.com/channel/5) 
@@ -66,6 +66,9 @@
     - [BOOK☆WALKER](https://bookwalker.jp/search/?order=rank&qcat=4&qpri=1&np=1) [写真集](https://bookwalker.jp/photography/)
     - [Gameover HK](https://www.gameover.com.hk/)
     - [爆サイ](https://bakusai.com/areatop/acode=3/) [女優](https://bakusai.com/thr_tl/acode=3/ctgid=122/bid=49/) [坂道](https://bakusai.com/thr_tl/acode=3/ctgid=116/bid=3594/) 
+    - [moeyo.com](https://www.moeyo.com/)
+    - [Stage1st](https://bbs.saraba1st.com/2b/forum.php?mod=forumdisplay&fid=6&filter=author&orderby=dateline)
+    - 
   - read
     - [医学微视](https://www.mvyxws.com/) [默克诊疗手册](https://www.msdmanuals.cn/home) [就诊问问](https://ask.nocode.com/)
     - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) 
@@ -104,6 +107,7 @@
     - [NHK NEWS](https://www3.nhk.or.jp/news/catnew.html?utm_int=all_header_menu_news-new) [頭條新聞](https://www3.nhk.or.jp/nhkworld/zt/news/)
     - [澎湃](https://www.thepaper.cn/) 
     - [Simcast](https://simcast.com/)
+    - [MSNニュース](https://www.msn.com/ja-jp/news) [MicrosoftNewsForGoodJapan](https://www.msn.com/ja-jp/news/for-good) 
   - ent
     - [SHOWROOM](https://www.showroom-live.com/onlive) 
     - [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5)
@@ -135,12 +139,15 @@
     - [FILMGRAB](https://film-grab.com/)
     - [ASCII.jp](https://ascii.jp/)
     - [東スポ](https://www.tokyo-sports.co.jp/)
-    - [Goal.com](https://www.goal.com/en) [Goal.com日本](https://www.goal.com/jp)
+    - [Goal.com](https://www.goal.com/en) [Goal日本](https://www.goal.com/jp)
     - [ESPN](https://global.espn.com/)
     - [SportsNavi](https://sports.yahoo.co.jp/)
     - [soccerking](https://www.soccer-king.jp/news/world?cx_top=head)
     - [PopnRoll](https://popnroll.tv/articles)
     - [FRIDAY](https://friday.gold/)
+    - [MSNエンタメ](https://www.msn.com/ja-jp/entertainment)
+    - [F1MSN](https://www.msn.com/ja-jp/sports/formula1) [NBAMSN](https://www.msn.com/ja-jp/sports/nba) [サッカーMSN ](https://www.msn.com/ja-jp/sports/soccer)
+    - [F1新闻](https://www.f1-fansite.com/zh-CN/f1-news/)
   - sox
     - [東京風俗](https://fujoho.jp/index.php?p=shop_list&t=13)
     - [エロ漫画](https://shikotch.net/)
@@ -161,6 +168,7 @@
     - [キラーnet](https://killer-net.com/) 
     - [スマホ版アイドルSEXY画像集＆裏](http://intervalues.com/idol_m.html)
     - [AV速報](https://avnewsflash.com/)
+    - [ScanLover](http://scanlover.com/)
   - life
     - [Nike](https://m.nike.com/) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/) [阿迪达斯](https://www.adidas.com.cn/) [TOPSPORTS](https://topsports.jd.com/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) [耐克天猫](https://nike.tmall.com/) [阿迪天猫](https://adidas.tmall.com/)
     - [東京食べログ](https://tabelog.com/tokyo/)
@@ -193,6 +201,7 @@
     - [白ごはん](https://www.sirogohan.com/)
     - [World Food Atlas](https://www.tasteatlas.com/)
     - [下厨房](https://www.xiachufang.com/)
+    - [japanet](https://www.japanet.co.jp/shopping/)
   - tools
     - [Chrome插件](http://chromecj.com/)
     - [TopWallpapers](https://wallhaven.cc/toplist) [wallroom](https://wallroom.io/) [CoolBackgrounds](https://coolbackgrounds.io/black-background/)
@@ -245,6 +254,7 @@
   - [Searx instances](https://searx.space/)
   - =======================
   - instagram
+    - [河北彩花](https://insta.jaeger.website/u/saika_kawakita__official)
     - [土屋太鳳](https://insta.jaeger.website/u/taotsuchiya_official)
     - [高校野球](https://insta.jaeger.website/u/virtual_kokoyakyu)
     - [三上悠亜](https://insta.jaeger.website/u/yua_mikami)
@@ -279,8 +289,10 @@
     - [志田音々](https://insta.jaeger.website/u/shida_nene0715)
     - [木村拓哉](https://insta.jaeger.website/u/takuya.kimura_tak)
     - [大原優乃](https://insta.jaeger.website/u/yuno_ohara)
+    - [Seventeen](https://insta.jaeger.website/u/seventeenjp_mag)
   - 
   - twitter
+    - [石川澪さん (@_ishikawamio_)Twitter](https://nitter.exonip.de/_ishikawamio_)
     - [文春オンライン (@bunshun_online)](https://nitter.exonip.de/bunshun_online)
     - [白石まゆみ MayumiShiraishi (@shira_mayu1227)](https://nitter.exonip.de/shira_mayu1227)
     - [光文社FLASHスペシャル(あおきー) (@paopaoPap)](https://nitter.exonip.de/paopaoPap)
@@ -330,4 +342,3 @@
     - [BBC News 中文 (@bbcchinese)](https://nitter.exonip.de/bbcchinese)
     - [エスワン【公式】 (@S1_No1_Style)](https://nitter.exonip.de/S1_No1_Style)
     - [美国之音中文网 (@VOAChinese)](https://nitter.exonip.de/VOAChinese)
-  - ==========================
