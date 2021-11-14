@@ -1,6 +1,6 @@
   - [Bing](https://cn.bing.com/) [搜狗](https://wap.sogou.com/) [百度](https://m.baidu.com/?from=1013843a&pu=sz%401321_480&wpo=btmfast) [Ecosia](https://www.ecosia.org/) [Yandex](https://yandex.com/) [excite](https://websearch.excite.co.jp/) [au](https://search.auone.jp/) [So-net](https://www.so-net.ne.jp/search/web/) [searx](https://searx.fmac.xyz/)
   - [paz](http://ming.pazru.com/%E6%9C%AA%E9%81%B8%E6%8A%9E/note#comment)  [临时](http://jishiben.me/ming) [ming](https://rentry.co/mingnote/edit) [分享](https://rentry.co/yjm/edit) [jsb](http://jishiben.cc/show_update.asp?link_id=31485) [many.link](https://many.link/loveuyeah) [edit](https://many.link/links)
-  - [IT之家](https://m.ithome.com/) [滚动](https://www.ithome.com/list/) [ZAKER](http://www.myzaker.com/) [1](http://www.myzaker.com/channel/5)[2](http://www.myzaker.com/channel/13)[3](http://www.myzaker.com/channel/10376)[4](http://www.myzaker.com/channel/10530)[5](http://www.myzaker.com/channel/10386) [cnbeta](https://m.cnbeta.com/) 
+  - [IT之家](https://m.ithome.com/) [滚动](https://www.ithome.com/list/) [ZAKER](http://www.myzaker.com/) [cnbeta](https://m.cnbeta.com/) 
   - [直播吧](https://m.zhibo8.cc/index.htm) [集锦](https://m.zhibo8.cc/v2/record.html) [虎扑](https://nba.hupu.com/) [赛程](https://china.nba.com/schedule/#!/7) 
   - [Yahoo](https://news.yahoo.co.jp/categories/entertainment)  [livedoor](https://www.livedoor.com/lite/) [aunews](https://portal.auone.jp/)  [Excite](https://www.excite.co.jp/) [docomo](https://ent.smt.docomo.ne.jp/)
   - [SouthPlus](https://snow-plus.net/simple/index.php?f9.html.html) [JavDB](https://javdb33.com/actors/EvkJ) [98堂](https://rewrfsrewr.xyz/misc.php?mod=mobile) [ScanLover](http://scanlover.com/d/4355-saika-kawakita) [技術討論](https://cl.176x.xyz/thread0806.php?fid=7) [FANZA](https://news.dmm.co.jp/) [RANK](https://www.dmm.co.jp/mono/dvd/-/ranking/=/term=week/) [男優](http://avdanyuwiki.com/) [女優検索](https://av2ch.net/avsearch/) [女優名前](https://av-wiki.net/) [龙虎榜](https://xslist.org/zh/ranking)  98t.org [彩花twi](https://www.twuko.com/search?q=%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1&type=live)  
@@ -109,6 +109,7 @@
     - [MSNニュース](https://www.msn.com/ja-jp/news) [NewsGoodJapan](https://www.msn.com/ja-jp/news/for-good) 
     - [博客频道-财新网](http://blog.caixin.com/)
     - [第一财经](https://www.yicai.com/)
+    - [精选](http://www.myzaker.com/?pos=selected_article) [互联](http://www.myzaker.com/channel/5) [科技](http://www.myzaker.com/channel/13) [游戏](http://www.myzaker.com/channel/10376) [电影](http://www.myzaker.com/channel/10530) [美食](http://www.myzaker.com/channel/10386) [互联](http://www.myzaker.com/channel/5) [科技](http://www.myzaker.com/channel/13) [游戏](http://www.myzaker.com/channel/10376) [电影](http://www.myzaker.com/channel/10530) [美食](http://www.myzaker.com/channel/10386) 
   - ent
     - [SHOWROOM](https://www.showroom-live.com/onlive) 
     - [通販](https://order.mandarake.co.jp/order/listPage/list?keyword=%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5)
@@ -172,7 +173,7 @@
     - [AVbkrb](https://av.bkrb.net/)
     - 
   - life
-    - [Nike](https://m.nike.com/) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/) [阿迪达斯](https://www.adidas.com.cn/) [TOPSPORTS](https://topsports.jd.com/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [Mytheresa](https://www.mytheresa.com/zh-cn/men/new-arrivals/current-week.html) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) [耐克天猫](https://nike.tmall.com/) [阿迪天猫](https://adidas.tmall.com/)
+    - [Nike](https://m.nike.com/) [SNKRS](https://www.nike.com/cn/launch?s=in-stock) [SNKRSJP](https://www.nike.com/jp/launch?s=in-stock) [优衣库](https://h.uniqlo.cn/#/) [优天猫](https://uniqlo.tmall.com/) [阿迪达斯](https://www.adidas.com.cn/) [TOPSPORTS](https://topsports.jd.com/) [ZARA](https://www.zara.cn/cn/) [H&M](https://www2.hm.com/zh_cn/index.html) [GU](http://www.gu-global.com/cn/) [北面](https://thenorthface.tmall.com/) [哥伦](https://columbia.tmall.com/) [迪卡侬](https://www.decathlon.com.cn/zh/) [YOHO!](https://www.yohobuy.com/) [LV](https://www.louisvuitton.cn/zhs-cn/homepage) [Mytheresa](https://www.mytheresa.com/zh-cn/men/new-arrivals/current-week.html) [麦](https://www.mcdonalds.com.cn/) [肯](http://www.kfc.com.cn/kfccda/index.aspx) [星巴克](https://www.starbucks.com.cn/) [耐克天猫](https://nike.tmall.com/) [阿迪天猫](https://adidas.tmall.com/) 
     - [東京食べログ](https://tabelog.com/tokyo/)
     - [WEAR](https://wear.jp/member/feed/)
     - [Tastemade快饭](https://www.tastemade.jp/)
