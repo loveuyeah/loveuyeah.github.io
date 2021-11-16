@@ -207,7 +207,7 @@
     - [japanet](https://www.japanet.co.jp/shopping/)
     - [NOWRE现客](https://nowre.com/)
     - [HAMCUS](https://hamc.us/) [ACRONYM](https://acrnm.com/?mode=img) [吉豐重工](https://www.guerrilla-group.co/)
-    - 
+    - [纽约时报生活季刊](https://www.shi-magazine.com/)
   - tools
     - [Chrome插件](http://chromecj.com/)
     - [TopWallpapers](https://wallhaven.cc/toplist) [wallroom](https://wallroom.io/) [CoolBackgrounds](https://coolbackgrounds.io/black-background/)
