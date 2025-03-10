@@ -500,6 +500,8 @@ Bookmarks
 
 <dt>[Online Video Converter | SaveClipBro](https://www.saveclipbro.com/)</dt>
 
+<dt>[YouTube视频和音乐下载-无广告](https://www.videoscat.com/video-downloader-online)</dt>
+
 <dt>[Converto.io - Free YouTube to MP3, YouTube to MP4 online downloader and converter](https://www.converto.io/en)</dt>
 
 <dt>[YouTube動画変換 - MP3、MP4、AVIダウンロード](https://www.onlinevideoconverter.com/ja/video-converter)</dt>
@@ -519,6 +521,8 @@ Bookmarks
 <dt>[视频解析网，微博、秒拍、汤不热视频解析下载网站](https://www.parsevideo.com/)</dt>
 
 <dt>[下载和转换youtube视频](https://www.360converter.com/conversion/youtubeConversion)</dt>
+
+<dt>[永久免费YouTube下载，支持Facebook，Twitter，Dailymotion等](https://www.9youtubetomp3.com/)</dt>
 
 <dt>[Video-Get - 最好的视频下载在线服务可以从YouTube, Facebook 以及1000多家网站下载视频](https://video-get.com/)</dt>
 
